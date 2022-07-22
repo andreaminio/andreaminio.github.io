@@ -2,3 +2,5 @@ theme: jekyll-theme-midnight
 title: www.grapegenomics.com
 description: Under maintenance
 author: Cantu lab @ UC Davis
+github:
+  is_project_page: false
