@@ -1,12 +1,9 @@
-Thanks for following the secret link,
-
-I have a very important message
+Thanks for following the secret link, I have a very important message
 
 # I'm out of office, so...
-## - I'll be back ... someday ... eventually ... maybe ...
-## - I'll reply if when can, don't hold your breath waiting
-
-Essentially, for now just hold on. Bisou :kissing_heart: !
+### ... I'll be back, someday, eventually, maybe...
+### ... I'll reply when I can, don't hold your breath waiting...
+### ... essentially, just hold on for now. Bisou :kissing_heart: !
 
 ![ Out of office](image.gif)
 
