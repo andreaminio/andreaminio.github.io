@@ -1,6 +1,5 @@
 I'm glad you followed the secret link...
-# ... I'll be back, eventually ...
-### but for now, bisou :kissing_heart:!
+# ... I'll be back ... eventually ... but for now, bisou :kissing_heart:!
 
 ![ Out of office](image.gif)
 
