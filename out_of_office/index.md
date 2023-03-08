@@ -1,6 +1,4 @@
-# Out of office
-
-I'll be back, hang on! Bisou :kissing_heart:
+I'll be back, eventually! Bisou :kissing_heart:
 
 ![ Out of office](image.gif)
 
