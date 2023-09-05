@@ -1,9 +1,10 @@
 Thanks for following the secret link, I have a very important message
 
-# I'm out of office, so...
-### ... I'll be back, someday, eventually, maybe...
-### ... I'll reply when I can, don't hold your breath waiting...
-### ... essentially, just hold on for now. Bisou! ![Bisou](bisou.png)
+![Offline](image.gif)
 
-![ Out of office](image.gif)
+# I'm offline!
+
+### ... just hold on for now. Bisou! ![Bisou](bisou.png)
+
+
 
