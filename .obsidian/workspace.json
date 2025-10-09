@@ -1,0 +1,695 @@
+{
+  "main": {
+    "id": "cf97e7633bb88958",
+    "type": "split",
+    "children": [
+      {
+        "id": "a25052227f410d41",
+        "type": "split",
+        "children": [
+          {
+            "id": "121f8bb4845fa8bf",
+            "type": "tabs",
+            "dimension": 30.611439842209073,
+            "children": [
+              {
+                "id": "3b9687fcfa5d96d8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "README"
+                }
+              },
+              {
+                "id": "0d3aab7c47d8a3d9",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              },
+              {
+                "id": "b362ff5b5de5bb2a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 - Workflows/05.06-RNAseq_Salzburg/05.06.03-Classification/05.06.03.02-Comparison/05.06.03.02-Comparison.Mayassi_2024.scRNA-seq.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.06.03.02-Comparison.Mayassi_2024.scRNA-seq"
+                }
+              },
+              {
+                "id": "a0080bd2c2ae5928",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 - Workflows/05.01-ATAC-seq_TF_footprint/05.01.05-Peaks/05.01.05.02-Peak_filtering.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.01.05.02-Peak_filtering"
+                }
+              },
+              {
+                "id": "df9c788da46c9fec",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 - Workflows/05.01-ATAC-seq_TF_footprint/05.01.05-Peaks/05.01.05.01-Peak_calling/05.01.05.01.04-HMMRATAC.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.01.05.01.04-HMMRATAC"
+                }
+              },
+              {
+                "id": "1bc8a6321d301fe3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "04 - Tools and Pipelines/04-Notes_on_procedures/A.niger_ATAC-seq_withTF_pipelines.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "A.niger_ATAC-seq_withTF_pipelines"
+                }
+              },
+              {
+                "id": "f9fcca63e3f66ae6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "04 - Tools and Pipelines/04-Tools/Bioinformatic_tools_documentation/01.Tools/HOMER_findMotifsGenome.pl.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "HOMER_findMotifsGenome.pl"
+                }
+              },
+              {
+                "id": "9d090bf5116295d4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "04 - Tools and Pipelines/04-Tools/Bioinformatic_tools_documentation/01.Tools/msCentipede.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "msCentipede"
+                }
+              },
+              {
+                "id": "fc5e4f93aa0eb8aa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "04 - Tools and Pipelines/04-File_formats/File_formats/Formats/gappedPeak.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "gappedPeak"
+                }
+              },
+              {
+                "id": "ad8d02f780624a98",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "04 - Tools and Pipelines/04-Tools/Bioinformatic_tools_documentation/01.Tools/HMMRATAC.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "HMMRATAC"
+                }
+              },
+              {
+                "id": "dfb2fb2585f9821e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 - Workflows/05.01-ATAC-seq_TF_footprint/05.01.05-Peaks/05.01.05.01-Peak_calling/05.01.05.01.02-MACS3.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.01.05.01.02-MACS3"
+                }
+              },
+              {
+                "id": "864d8884614b1fb3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 - Workflows/05.01-ATAC-seq_TF_footprint/05.01.05-Peaks/05.01.05.01-Peak_calling/05.01.05.01.03-HOMER.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.01.05.01.03-HOMER"
+                }
+              },
+              {
+                "id": "d28c3921d9f39aa1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 - Workflows/05.01-ATAC-seq_TF_footprint/05.01.04-Mapping/05.01.04-7_mapping.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.01.04-7_mapping"
+                }
+              },
+              {
+                "id": "2784fa33af432bf7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 - Workflows/05.01-ATAC-seq_TF_footprint/05.01.05-Peaks/05.01.05.01-Peak_calling/05.01.05.01.04-HMMRATAC.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.01.05.01.04-HMMRATAC"
+                }
+              },
+              {
+                "id": "d2fbcf22ef6cae1a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 - Workflows/05.01-ATAC-seq_TF_footprint/05.01.05-Peaks/05.01.05.01-Peak_calling.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.01.05.01-Peak_calling"
+                }
+              },
+              {
+                "id": "3caeb91c26d08707",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 - Workflows/05.01-ATAC-seq_TF_footprint/05.01-ATAC-seq_TF_footprint.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.01-ATAC-seq_TF_footprint"
+                }
+              }
+            ],
+            "currentTab": 11
+          },
+          {
+            "id": "0d8fd8d6a89c4414",
+            "type": "tabs",
+            "dimension": 69.38856015779092,
+            "children": [
+              {
+                "id": "0051081756713654",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 - Workflows/05.08-Udine_datasets/05.08-Udine_datasets.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.08-Udine_datasets"
+                }
+              },
+              {
+                "id": "0b66a2e3f2b64fdb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.06-Peak_comparison.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.08.02.06-Peak_comparison"
+                }
+              },
+              {
+                "id": "8148b983f30809f4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07.04-TFBS.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.08.02.07.04-TFBS"
+                }
+              },
+              {
+                "id": "3ccfb2778b2ea114",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/05.08.02.07.04.02-TOBIAS.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.08.02.07.04.02-TOBIAS"
+                }
+              },
+              {
+                "id": "ff8184e0a984ca01",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/05.08.02.07.04.02-TOBIAS.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.08.02.07.04.02-TOBIAS"
+                }
+              },
+              {
+                "id": "cec791c44f9d6db2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 - Workflows/05.08-Udine_datasets/05.08.03-ChIP-seq/05.08.03.09-ChIP-seq_Candidate_peak_annotation.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.08.03.09-ChIP-seq_Candidate_peak_annotation"
+                }
+              },
+              {
+                "id": "1d30ff4b73b4314e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 - Workflows/05.08-Udine_datasets/05.08.03-ChIP-seq/05.08.03.06-ChIP-seq_Sample_qc.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.08.03.06-ChIP-seq_Sample_qc"
+                }
+              },
+              {
+                "id": "2e218191229fd4cf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 - Workflows/05.08-Udine_datasets/05.08.03-ChIP-seq/05.08.03.07-ChIP-seq_Peak_annotation.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.08.03.07-ChIP-seq_Peak_annotation"
+                }
+              },
+              {
+                "id": "1d8213f86c812fc5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 - Workflows/05.08-Udine_datasets/05.08.03-ChIP-seq/05.08.03.08-ChIP-seq_Peak_differential_binding.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.08.03.08-ChIP-seq_Peak_differential_binding"
+                }
+              },
+              {
+                "id": "603d817328f17c49",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 - Workflows/05.08-Udine_datasets/05.08.03-ChIP-seq/05.08.03.09-ChIP-seq_Candidate_peak_annotation.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.08.03.09-ChIP-seq_Candidate_peak_annotation"
+                }
+              },
+              {
+                "id": "2ef03b1663181b28",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 - Workflows/05.08-Udine_datasets/05.08.03-ChIP-seq/05.08.03.09-ChIP-seq_Candidate_peak_annotation/05.08.03.09.05-DEgenes_vs_DBpeaks.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.08.03.09.05-DEgenes_vs_DBpeaks"
+                }
+              },
+              {
+                "id": "6780a23eaaf9dc2c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 - Workflows/05.08-Udine_datasets/05.08.03-ChIP-seq/05.08.03.09-ChIP-seq_Candidate_peak_annotation/05.08.03.09.04-DE_genes_ChIPseq_trace.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.08.03.09.04-DE_genes_ChIPseq_trace"
+                }
+              },
+              {
+                "id": "c34d03cd00c51533",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "05 - Workflows/05.08-Udine_datasets/05.08.03-ChIP-seq/05.08.03.10-ChIP-seq_Super-Enhancers.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "05.08.03.10-ChIP-seq_Super-Enhancers"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "345cac0087ff1454",
+    "type": "split",
+    "children": [
+      {
+        "id": "02b55d77ddd5e1b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efa5541e1f378cd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "80e40ea8f4baa995",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f5e8488babb36aba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "right": {
+    "id": "1053b4c81b85b602",
+    "type": "split",
+    "children": [
+      {
+        "id": "2433cb5be35faaad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcbe17779c78dbbf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05 - Workflows/05.08-Udine_datasets/05.08.03-ChIP-seq/05.08.03.09-ChIP-seq_Candidate_peak_annotation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 05.08.03.09-ChIP-seq_Candidate_peak_annotation"
+            }
+          },
+          {
+            "id": "776ab975b6252607",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05 - Workflows/05.08-Udine_datasets/05.08.03-ChIP-seq/05.08.03.09-ChIP-seq_Candidate_peak_annotation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 05.08.03.09-ChIP-seq_Candidate_peak_annotation"
+            }
+          },
+          {
+            "id": "8af81879dfbe4f63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f0d4029e8bc6bc6e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "56e231078864e20f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05 - Workflows/05.08-Udine_datasets/05.08.03-ChIP-seq/05.08.03.06-ChIP-seq_Sample_qc.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 05.08.03.06-ChIP-seq_Sample_qc"
+            }
+          },
+          {
+            "id": "b304a4013aa52c98",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "ad278ab611c1317d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obisidian-note-linker:Note Linker": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
+    }
+  },
+  "active": "8148b983f30809f4",
+  "lastOpenFiles": [
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/05.08.02.07.04.02-TOBIAS.md",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/TOBIAS/TFBS_Filtering/uncropped/bias_no_filtered/score_plot.Max_score.pdf",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/TOBIAS/TFBS_Filtering/uncropped/bias_no_filtered/scores_distribution.pdf",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/TOBIAS/TFBS_Filtering/uncropped/bias_no_filtered/log2fc_plot.distribution.pdf",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/TOBIAS/TFBS_Filtering/uncropped/bias_no_peaks/log2fc_plot.distribution.pdf",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/TOBIAS/TFBS_Filtering/uncropped/bias_no_peaks/score_plot.Max_score.pdf",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/TOBIAS/TFBS_Filtering/uncropped/bias_no_peaks/scores_distribution.pdf",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/TOBIAS/TFBS_Filtering/uncropped/bias_no_selected/log2fc_plot.distribution.pdf",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/TOBIAS/TFBS_Filtering/uncropped/bias_no_selected/scores_distribution.pdf",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/TOBIAS/TFBS_Filtering/uncropped/bias_no_selected/score_plot.Max_score.pdf",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/TOBIAS/TFBS_Filtering/progressive/bias_no_selected/score_plot.Max_score.pdf",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.06-Peak_comparison.md",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07.04-TFBS.md",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/Wellington/Wellington-merge_results/RGT_HINT-ATAC/MotifEnrichment.Ligated_Modulated_SenescentVsLigated_Modulated_Proliferative/logos/MA1567.1.TBX6.png",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/Wellington/Wellington-merge_results/RGT_HINT-ATAC/MotifEnrichment.Ligated_Modulated_SenescentVsLigated_Modulated_Proliferative/logos/MA0504.1.NR2C2.png",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/Wellington/Wellington-merge_results/RGT_HINT-ATAC/MotifEnrichment.Ligated_Modulated_ProliferativeVsLigated_Unmodulated/logos/MA0606.1.NFAT5.png",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/Wellington/Wellington-merge_results/RGT_HINT-ATAC/MotifEnrichment.Ligated_Modulated_ProliferativeVsLigated_Unmodulated/logos/MA0071.1.RORA.png",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/Wellington/Wellington-merge_results/RGT_HINT-ATAC/MotifEnrichment.Ligated_Modulated_SenescentVsLigated_Unmodulated/logos/MA0733.1.EGR4.png",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/Wellington/Wellington-merge_results/RGT_HINT-ATAC/MotifEnrichment.Ligated_Modulated_SenescentVsLigated_Unmodulated/logos/MA0666.1.MSX1.png",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/Wellington/Wellington-merge_results/RGT_HINT-ATAC/MotifEnrichment.Ligated_Modulated_SenescentVsLigated_Unmodulated/logos/MA1133.1.JUN::JUNB(var.2).png",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/Wellington/Wellington-merge_results/RGT_HINT-ATAC/MotifEnrichment.Ligated_Modulated_SenescentVsLigated_Unmodulated/logos/MA1421.1.TCF7L1.png",
+    "05 - Workflows/05.08-Udine_datasets/05.08.03-ChIP-seq/05.08.03.09-ChIP-seq_Candidate_peak_annotation/05.08.03.09.04-DE_genes_ChIPseq_trace.md",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/05.08.02.07.04.01-HINT-ATAC.md",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB.md",
+    "05 - Workflows/05.08-Udine_datasets/05.08.03-ChIP-seq/05.08.03.08-ChIP-seq_Peak_differential_binding.md",
+    "05 - Workflows/05.08-Udine_datasets/05.08.03-ChIP-seq/05.08.03.07-ChIP-seq_Peak_annotation.md",
+    "05 - Workflows/05.08-Udine_datasets/05.08.03-ChIP-seq/05.08.03.06-ChIP-seq_Sample_qc.md",
+    "05 - Workflows/05.08-Udine_datasets/05.08.03-ChIP-seq/05.08.03.09-ChIP-seq_Candidate_peak_annotation.md",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/run-peaks_vs_custom_bg.sh.md",
+    "05 - Workflows/05.06-RNAseq_Salzburg/05.06-RNAseq_Salzburg.md",
+    "05 - Workflows/05.06-RNAseq_Salzburg/05.06.00-Background/05.06.00.01-Datasets.md",
+    "05 - Workflows/05.06-RNAseq_Salzburg/05.06.01-Original_dataset.md",
+    "05 - Workflows/05.06-RNAseq_Salzburg/05.06.01-Original_dataset/05.06.01.01-Raw_reads_QC.md",
+    "05 - Workflows/05.06-RNAseq_Salzburg/05.06.01-Original_dataset/05.06.01.02-Reads_Filtering.md",
+    "05 - Workflows/05.08-Udine_datasets/05.08.03-ChIP-seq/05.08.03.10-ChIP-seq_Super-Enhancers.md",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/Wellington/Wellington-merge_results/RGT_HINT-ATAC/MotifEnrichment.Ligated_Modulated_SenescentVsLigated_Unmodulated/logos/MA0818.1.BHLHE22.png",
+    "05 - Workflows/05.08-Udine_datasets/05.08.02-ATAC-seq/05.08.02.07-Peak_DB/05.08.02.07.04-TF_binding_sites/Wellington/Wellington-merge_results/RGT_HINT-ATAC/MotifEnrichment.Ligated_Modulated_SenescentVsLigated_Unmodulated/logos/MA0607.1.Bhlha15.png",
+    "05 - Workflows/05.01-ATAC-seq_TF_footprint/05.01.05-Peaks/05.01.05.01-Peak_calling/05.01.05.01.03-HOMER.md",
+    "05 - Workflows/05.01-ATAC-seq_TF_footprint/05.01.05-Peaks/05.01.05.01-Peak_calling/05.01.05.01.02-MACS3.md",
+    "04 - Tools and Pipelines/04-File_formats/File_formats/Formats/gappedPeak.md",
+    "04 - Tools and Pipelines/04-Tools/Bioinformatic_tools_documentation/01.Tools/msCentipede.md",
+    "04 - Tools and Pipelines/04-Tools/Bioinformatic_tools_documentation/01.Tools/HOMER_findMotifsGenome.pl.md",
+    "01 - Notes/01.06-Markers.md",
+    "04 - Tools and Pipelines/04-Notes_on_procedures/hitchhiker_s_guide-pipeline-ATAC-seq.md",
+    "04 - Tools and Pipelines/04-Notes_on_procedures/A.niger_ATAC-seq_withTF_pipelines.md"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "findText": "https://www.sciencedirect.com/science/article/pii/S0962892422001167?via%3Dihub#bb[0-9]*",
+  "replaceText": "",
+  "useRegEx": true,
+  "selOnly": false,
+  "caseInsensitive": true,
+  "processLineBreak": true,
+  "processTab": false,
+  "prefillFind": true
+}

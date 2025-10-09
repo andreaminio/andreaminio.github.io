@@ -1,0 +1,188 @@
+{
+  "TagColors": {
+    "ColorPicker": [
+      {
+        "tag_name": "note",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "background_color": {
+          "r": 163,
+          "g": 163,
+          "b": 163
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "senescence",
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "background_color": {
+          "r": 101,
+          "g": 69,
+          "b": 217
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "background",
+        "color": {
+          "r": 98,
+          "g": 244,
+          "b": 127
+        },
+        "background_color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "dataset",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "background_color": {
+          "r": 43,
+          "g": 212,
+          "b": 116
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "secretion",
+        "color": {
+          "r": 203,
+          "g": 42,
+          "b": 42
+        },
+        "background_color": {
+          "r": 255,
+          "g": 247,
+          "b": 0
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "pathways",
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "background_color": {
+          "r": 117,
+          "g": 180,
+          "b": 65
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "triggers",
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "background_color": {
+          "r": 189,
+          "g": 15,
+          "b": 15
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "cancer",
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "background_color": {
+          "r": 184,
+          "g": 47,
+          "b": 233
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "senescence/characteristics",
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "background_color": {
+          "r": 101,
+          "g": 69,
+          "b": 217
+        },
+        "luminance_offset": 0.15
+      }
+    ],
+    "EnableMultipleTags": true,
+    "EnableSeparateBackground": true,
+    "EnableBackgroundOpacity": true,
+    "Values": {
+      "BackgroundOpacity": 0.45,
+      "LuminanceOffset": 0.15
+    }
+  },
+  "CSS": {
+    "NoteTags": true,
+    "NoteProperties": true,
+    "NoteBackgrounds": false,
+    "TagsNoWrap": true,
+    "TagsNoWrapText": "pre"
+  },
+  "FolderNote": {
+    "Enable": false,
+    "FolderTagLinks": [],
+    "EnableAutoDetect": true,
+    "EnableBackgroundOpacity": false,
+    "Values": {
+      "BackgroundOpacity": 0.45,
+      "ForceImportant": true,
+      "BorderRadius": "12px",
+      "Padding": "5px"
+    }
+  },
+  "Kanban": {
+    "Enable": true,
+    "EnableCards": false,
+    "EnableLists": false,
+    "HideHashtags": false,
+    "EnableBackgroundOpacity": false,
+    "Values": {
+      "BackgroundOpacity": 0.45,
+      "CardBackgroundOpacity": 0.2,
+      "CardBorderOpacity": 0.3,
+      "ListBackgroundOpacity": 0.2,
+      "ListBorderOpacity": 0.3
+    }
+  },
+  "Canvas": {
+    "Enable": false,
+    "EnableBackgroundOpacity": false,
+    "Values": {
+      "BackgroundOpacity": 0.45,
+      "CardBorderOpacity": 0.3,
+      "CardBackgroundLuminanceOffset": 0.15
+    }
+  },
+  "Debug": {
+    "Enable": false,
+    "EnableExperimentalCommands": false
+  },
+  "Info": {
+    "SettingsVersion": 14
+  }
+}

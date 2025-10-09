@@ -1,0 +1,156 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#background  ",
+      "color": {
+        "a": 1,
+        "rgb": 12499899
+      }
+    },
+    {
+      "query": "tag:#gene/marker/list/senescence  ",
+      "color": {
+        "a": 1,
+        "rgb": 15038254
+      }
+    },
+    {
+      "query": "tag:#gene",
+      "color": {
+        "a": 1,
+        "rgb": 16032067
+      }
+    },
+    {
+      "query": "tag:#paper  ",
+      "color": {
+        "a": 1,
+        "rgb": 14293787
+      }
+    },
+    {
+      "query": "tag:#genomic_feature  ",
+      "color": {
+        "a": 1,
+        "rgb": 15655794
+      }
+    },
+    {
+      "query": "tag:#cell_line  ",
+      "color": {
+        "a": 1,
+        "rgb": 9848255
+      }
+    },
+    {
+      "query": "path:\"01 - Notes\" file:01.*",
+      "color": {
+        "a": 1,
+        "rgb": 14079702
+      }
+    },
+    {
+      "query": "senescence/induction",
+      "color": {
+        "a": 1,
+        "rgb": 14697215
+      }
+    },
+    {
+      "query": "tag:#gene_family  ",
+      "color": {
+        "a": 1,
+        "rgb": 12820857
+      }
+    },
+    {
+      "query": "tag:#transcription_factor  ",
+      "color": {
+        "a": 1,
+        "rgb": 15656747
+      }
+    },
+    {
+      "query": "path:\"04 - Tools and Pipelines/04-Pipelines_for_github\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6597644
+      }
+    },
+    {
+      "query": "path:\"04 - Tools and Pipelines/04-Tools\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11983244
+      }
+    },
+    {
+      "query": "path:\"05 - Workflows/05.03-ATAC-seq_Atlas\" ",
+      "color": {
+        "a": 1,
+        "rgb": 7961047
+      }
+    },
+    {
+      "query": "tag:#ATAC-seq_TF_footprint",
+      "color": {
+        "a": 1,
+        "rgb": 5797563
+      }
+    },
+    {
+      "query": "tag:#RNAseq_Salzburg  ",
+      "color": {
+        "a": 1,
+        "rgb": 9804004
+      }
+    },
+    {
+      "query": "tag:#RNAseq_Udine  ",
+      "color": {
+        "a": 1,
+        "rgb": 1967585
+      }
+    },
+    {
+      "query": "path:\"02 - Publications and Data\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13785983
+      }
+    },
+    {
+      "query": "tag:#gene  ",
+      "color": {
+        "a": 1,
+        "rgb": 16041503
+      }
+    },
+    {
+      "query": "tag:#gene/marker/list/cell_type  ",
+      "color": {
+        "a": 1,
+        "rgb": 12132964
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 3,
+  "nodeSizeMultiplier": 3.76473904639175,
+  "lineSizeMultiplier": 0.550203450520833,
+  "collapse-forces": false,
+  "centerStrength": 0.222334085051546,
+  "repelStrength": 18.8627577319588,
+  "linkStrength": 0.590850515463918,
+  "linkDistance": 30,
+  "scale": 0.0078125,
+  "close": true
+}

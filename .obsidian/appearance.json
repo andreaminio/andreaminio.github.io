@@ -1,0 +1,13 @@
+{
+  "accentColor": "#5c8af5",
+  "theme": "moonstone",
+  "cssTheme": "Blue Topaz",
+  "enabledCssSnippets": [
+    "header_color",
+    "monospace"
+  ],
+  "baseFontSize": 14,
+  "interfaceFontFamily": "Helvetica",
+  "textFontFamily": "Helvetica",
+  "monospaceFontFamily": "Courier New,Andale Mono"
+}

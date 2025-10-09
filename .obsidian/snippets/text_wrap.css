@@ -1,0 +1,26 @@
+.HyperMD-codeblock.cm-line:not(.cm-active)
+, code[class*="language-"]
+, pre[class*="language-"]
+{
+    white-space: pre;
+    overflow-x: scroll;
+}
+
+
+.mod-cm6 .cm-editor .HyperMD-header, .markdown-reading-view .markdown-preview-section .markdown-preview-view :is(h1,h2,h3,h4,h5,h6) {
+    line-height: 1.5em !important;
+    margin: 10px 0px 5px 0px !important;
+    padding: 5px 0px 5px 0px !important;
+}
+
+.markdown-rendered code, /* for preview/reading view */
+.cm-s-obsidian span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight) /* for editing view */
+{
+    color: #444488 !important;
+    background: #F6F7F8 !important;
+    border-radius: 5px;
+    padding: 2px;
+    border: 1px #EEEEEE solid ;
+    font-family: monospace;
+    font-style: italic;
+}

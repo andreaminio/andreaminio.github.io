@@ -1,0 +1,7 @@
+div[data-callout-metadata*="monospace"] {
+    font-family: monospace !important;
+}
+.HyperMD-quote {
+    font-family: monospace !important;
+}
+

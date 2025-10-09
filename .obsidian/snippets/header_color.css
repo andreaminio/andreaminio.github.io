@@ -1,0 +1,70 @@
+.cm-header-1
+{
+  color: #334466;
+}
+
+
+.cm-header-2,
+.cm-header-3,
+.cm-header-4,
+.cm-header-5
+{
+  color: #334466;
+  margin-left: .5em; 
+}
+
+
+
+
+/*for "Source mode"*/
+
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5
+{
+    color: #111111 ;
+
+}
+
+
+/* Different color for bold*/
+
+.markdown-preview-section strong {
+  color: #222266;
+}
+
+body:not(.default-font-color) strong, body:not(.default-font-color) span:not(.cm-highlight).cm-strong 
+{
+	color: #222222;
+}
+
+/* Different color for italic */
+.markdown-preview-section em {
+  color: #222266;
+}
+
+body:not(.default-font-color) em, body:not(.default-font-color) span:not(.cm-highlight).cm-em
+{
+  color: #222266;
+}
+
+
+/* << EDITING link color INTERNAL >>  */
+.cm-s-obsidian span.cm-hmd-internal-link , span.cm-underline , span.cm-link {
+  font-weight: 400;
+  color: #667788  !important;
+  font-style: italic;
+  
+}
+
+/* << READING link color INTERNAL >>  */
+.markdown-preview-view .internal-link {
+  font-weight: 400;
+  color: #494966 !important;
+  font-style: italic;
+}
+
+
+

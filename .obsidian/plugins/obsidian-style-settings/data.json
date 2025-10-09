@@ -1,0 +1,12 @@
+{
+  "typomagical-text@@link-font": "ss-links-spectral",
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-sublime",
+  "Blue-Topaz-Codebox-Highlight@@code-builtin@@light": "#1367A1",
+  "Blue-Topaz-Codebox-Highlight@@text-color-code@@light": "#4573C9",
+  "Blue-Topaz-Codebox-Highlight@@code-function@@light": "#624FB5",
+  "Blue-Topaz-Codebox-Highlight@@code-string@@light": "#2BBD39",
+  "Blue-Topaz-Codebox-Highlight@@code-meta@@light": "#CC00CA",
+  "Blue-Topaz-Codebox-Highlight@@code-value@@light": "#B835FF",
+  "blue-topaz-theme@@folder-style-change-options-colorful": "folder-style-change-options-colorful-tab-liked",
+  "blue-topaz-theme@@font-family-change-to-default": false
+}

@@ -1,0 +1,20 @@
+{
+  "showInlineTitle": false,
+  "vimMode": true,
+  "useTab": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "./",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "showLineNumber": true,
+  "smartIndentList": true,
+  "readableLineLength": false
+}

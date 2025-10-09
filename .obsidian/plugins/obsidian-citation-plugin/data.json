@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "./notes",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n",
+  "markdownCitationTemplate": "[@{{citekey}}]({{zoteroSelectURI}})",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "/Users/andreaminio/OneDrive - University of California, Davis/Bibliography/My Library 2.bib"
+}
