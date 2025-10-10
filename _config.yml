@@ -1,9 +1,9 @@
 #remote_theme: pages-themes/slate@v0.2.0
 #remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
-#remote_theme: sharu725/online-cv
+remote_theme: sharu725/online-cv
 #remote_theme: amitmerchant1990/reverie
 #remote_theme: codeasashu/hcz-jekyll-blog
-remote_theme: yizeng/jekyll-theme-simple-texture
+#remote_theme: yizeng/jekyll-theme-simple-texture
 
 title: andreaminio.github.io
 description: Andrea's little space
