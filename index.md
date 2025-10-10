@@ -1,3 +1,9 @@
+---
+homepage: true
+show_in_menu: false
+---
+
+
 # Andrea's Curriculum Vitae
 
 ---
