@@ -1,0 +1,9 @@
+theme: jekyll-theme-tactile
+title: andreaminio.github.io
+description: Andrea's little space
+author: andrea.minio
+
+github:
+  is_project_page: false
+
+footer_content: ""
