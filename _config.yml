@@ -13,3 +13,5 @@ footer_content: ""
 
 plugins:
   - jekyll-remote-theme
+
+darkmode: true
