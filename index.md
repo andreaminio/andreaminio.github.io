@@ -6,8 +6,8 @@
 
 | _Nationality:_  | _**Italian**_                                                                                        |
 | --------------- | ---------------------------------------------------------------------------------------------------- |
-| _LinkedIn:_     | [_**https://it.linkedin.com/in/andreaminio/en**_](https://it.linkedin.com/in/andreaminio/en)         |
-| _ResearchGate:_ | [_**www.researchgate.net/profile/Andrea_Minio**_](https://www.researchgate.net/profile/Andrea_Minio) |
+| _LinkedIn:_     | _**[https://it.linkedin.com/in/andreaminio/en](https://it.linkedin.com/in/andreaminio/en)**_         |
+| _ResearchGate:_ | _**[www.researchgate.net/profile/Andrea_Minio](https://www.researchgate.net/profile/Andrea_Minio)**_ |
 | _GitHub Page:_  | _**[https://github.com/andreaminio/](https://github.com/andreaminio/)**_                             |
 
 ---
@@ -64,6 +64,6 @@
 | Citations         | 2547 | 2066       |
 | h-index           | 26   | 25         |
 
-***Google scholar*** >> [https://scholar.google.com/citations?user=t9Rnj4AAAAAJ&hl=en]
+***[Publications on Google scholar](https://scholar.google.com/citations?user=t9Rnj4AAAAAJ&hl=en)*** 
 
 ---

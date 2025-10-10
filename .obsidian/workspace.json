@@ -15,7 +15,7 @@
               "state": {
                 "file": "index.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -202,7 +202,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "4f42c2860eb3d40c",
+  "active": "96a138cb49a56a02",
   "lastOpenFiles": [
     "_config.yml~",
     "Andrea_s_booze_repository/_config.yml",
