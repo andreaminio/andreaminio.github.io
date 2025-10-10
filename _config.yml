@@ -6,7 +6,8 @@
 #remote_theme: piazzai/cvless
 #remote_theme: BDHU/minimalist
 #remote_theme: DigitaleGesellschaft/jekyll-theme-conference
-remote_theme: lukas-h/jekyll-timeline
+remote_theme: carlosperate/jekyll-theme-rtd
+
 
 title: andreaminio.github.io
 description: Andrea's little space
