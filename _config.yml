@@ -22,9 +22,9 @@ links:
 
 ui:
   header:
-    - color1: "#271433"
-    - color2: "#91ade5"
-    - trianglify: true
+    color1: "#271433"
+    color2: "#91ade5"
+    trianglify: false
       
 #footer_content: ""
 
