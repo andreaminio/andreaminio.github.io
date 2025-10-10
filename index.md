@@ -29,7 +29,8 @@
 ### State examination
 
 | _**2011**_ | **State examination to exercise the profession in information technology engineering** (Esame di Stato per l'abilitazione alla professione d'ingegnere dell’Informazione) |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| --------------- | ---------------------------------------------------------------------------------------------------- |
+| |  |
 
 ### Bioinformatic software and pipelines
 
