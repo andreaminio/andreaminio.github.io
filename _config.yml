@@ -20,6 +20,11 @@ links:
     - title: GitHub
       url: https://github.com/andreaminio
 
+ui:
+  header:
+    color1: "#271433"
+    color2: "#91ade5"
+    trianglify: true
       
 footer_content: ""
 
