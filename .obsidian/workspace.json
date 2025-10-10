@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Andrea_s_booze_repository/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Untitled"
             }
           }
         ]
@@ -204,9 +204,9 @@
   },
   "active": "96a138cb49a56a02",
   "lastOpenFiles": [
+    "index.md",
     "to_change_config~.yml",
     "Andrea_s_booze_repository/Untitled.md",
-    "index.md",
     "Andrea_s_booze_repository"
   ]
 }
