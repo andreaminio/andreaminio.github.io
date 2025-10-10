@@ -13,7 +13,7 @@ description: Andrea's little space
 author: andrea.minio
 
 github:
-  is_project_page: false
+  - is_project_page: false
 
 links:
   header:
@@ -22,11 +22,11 @@ links:
 
 ui:
   header:
-    color1: "#271433"
-    color2: "#91ade5"
-    trianglify: true
+    - color1: "#271433"
+      - color2: "#91ade5"
+      - trianglify: true
       
-footer_content: ""
+#footer_content: ""
 
 plugins:
   - jekyll-remote-theme
