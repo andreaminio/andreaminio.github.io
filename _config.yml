@@ -15,6 +15,12 @@ author: andrea.minio
 github:
   is_project_page: false
 
+links:
+  header:
+    - title: GitHub
+      url: https://github.com/andreaminio
+
+      
 footer_content: ""
 
 plugins:
