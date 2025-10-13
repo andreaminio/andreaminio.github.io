@@ -24,10 +24,10 @@ plugins:
 
 
 repo_url: "https://github.com/aminio/"
-edit_on_github: true
-github_docs_folder: true
-sticky_navigation: true
-prev_next_buttons_location: bottom
+edit_on_github: false
+github_docs_folder: false
+sticky_navigation: false
+prev_next_buttons_location: None
 search_enabled: false
 hljs_style: github-gist
 
