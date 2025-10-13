@@ -1,3 +1,8 @@
+---
+toc: true
+---
+
+
 # Andrea's Curriculum Vitae
 
 ---
