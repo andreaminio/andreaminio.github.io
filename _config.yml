@@ -1,5 +1,5 @@
 #remote_theme: pages-themes/slate@v0.2.0
-remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
+#remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 #remote_theme: sharu725/online-cv
 #remote_theme: amitmerchant1990/reverie
 #remote_theme: codeasashu/hcz-jekyll-blog
@@ -9,7 +9,7 @@ remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 #remote_theme: artemsheludko/fresh
 #remote_theme: lingxz/sparrow
 #remote_theme: nicoelayda/celeste
-
+remote_theme: luxedo/jekyll-theme-potato-hacker
 
 title: andreaminio.github.io
 description: Andrea's little space
@@ -21,12 +21,4 @@ github:
 plugins:
   - jekyll-remote-theme
 
-
-repo_url: "https://github.com/aminio/"
-edit_on_github: false
-github_docs_folder: false
-sticky_navigation: true
-prev_next_buttons_location: None
-search_enabled: false
-hljs_style: github-gist
 
