@@ -6,8 +6,8 @@
 #remote_theme: piazzai/cvless
 #remote_theme: BDHU/minimalist
 #remote_theme: DigitaleGesellschaft/jekyll-theme-conference
-remote_theme: carlosperate/jekyll-theme-rtd
-
+#remote_theme: carlosperate/jekyll-theme-rtd
+remote_theme: tsjensen/fuse-core
 
 title: andreaminio.github.io
 description: Andrea's little space
