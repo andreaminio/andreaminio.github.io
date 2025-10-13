@@ -1,7 +1,7 @@
 ---
 menubar_toc: true
 layout: promo-page
-
+theme_color: #157878
 ---
 
 # Test Page
