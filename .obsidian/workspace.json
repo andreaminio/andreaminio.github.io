@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Andrea_s_booze_repository/Booze1.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Booze1"
             }
           },
           {
@@ -217,11 +217,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "4f42c2860eb3d40c",
+  "active": "96a138cb49a56a02",
   "lastOpenFiles": [
+    "index.md",
     "_config.yml~",
     "Andrea_s_booze_repository/Booze1.md",
-    "index.md",
     "Andrea_s_booze_repository/_config.yml",
     "to_change_config.yml~",
     "_config.yml",

@@ -1,5 +1,5 @@
 ---
-toc: true
+menubar_toc: true
 ---
 
 

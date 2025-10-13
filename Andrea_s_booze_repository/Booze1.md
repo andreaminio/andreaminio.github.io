@@ -1,3 +1,7 @@
+---
+menubar_toc: true
+---
+
 # Test Page
 
 ## i.e. Alcool test
