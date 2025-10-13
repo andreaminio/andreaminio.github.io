@@ -1,5 +1,7 @@
 ---
 menubar_toc: true
+layout: promo-page
+
 ---
 
 # Test Page
