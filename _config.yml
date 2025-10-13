@@ -6,11 +6,10 @@
 #remote_theme: piazzai/cvless
 #remote_theme: BDHU/minimalist
 #remote_theme: DigitaleGesellschaft/jekyll-theme-conference
-#remote_theme: carlosperate/jekyll-theme-rtd
+remote_theme: carlosperate/jekyll-theme-rtd
 #remote_theme: artemsheludko/fresh
 #remote_theme: lingxz/sparrow
-remote_theme: nicoelayda/celeste
-
+#remote_theme: nicoelayda/celeste
 
 
 title: andreaminio.github.io
@@ -20,9 +19,15 @@ author: andrea.minio
 github:
   - is_project_page: false
       
-#footer_content: ""
-
 plugins:
   - jekyll-remote-theme
 
-#darkmode: true
+
+repo_url: "https://github.com/aminio/"
+edit_on_github: true
+github_docs_folder: true
+sticky_navigation: true
+prev_next_buttons_location: bottom
+search_enabled: false
+hljs_style: github-gist
+
