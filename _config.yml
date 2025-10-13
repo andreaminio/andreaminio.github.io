@@ -8,8 +8,8 @@
 #remote_theme: DigitaleGesellschaft/jekyll-theme-conference
 #remote_theme: carlosperate/jekyll-theme-rtd
 #remote_theme: artemsheludko/fresh
-remote_theme: lingxz/sparrow
-
+#remote_theme: lingxz/sparrow
+remote_theme: dikiaap/mangan
 
 title: andreaminio.github.io
 description: Andrea's little space
