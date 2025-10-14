@@ -10,4 +10,5 @@ menubar_toc: true
 
 ## Yeasts
 * [Yeast info index](Yeasts/index.md)
-    * [MJ_M02](Yeasts/MJ_M02.md)
+    * [Mangrove Jack's - M02 (Cider)](Yeasts/MJ_M02.md)
+    * 
