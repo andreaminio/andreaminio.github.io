@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -263,10 +263,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e9b2f3fa462ba2b4",
+  "active": "25b1cdcf37b194c2",
   "lastOpenFiles": [
-    "Andrea_s_winemaking_notes/Recipes/Gin.md",
     "Andrea_s_winemaking_notes/Recipes/Index.md",
+    "Andrea_s_winemaking_notes/Recipes/Gin.md",
     "Andrea_s_winemaking_notes/Yeasts/index.md",
     "Andrea_s_winemaking_notes/Yeasts/MJ_M02.md",
     "Andrea_s_winemaking_notes/index.md",
