@@ -5,5 +5,6 @@ menubar_toc: true
 # Andrea's Winemaking Preparations
 
 ## Mead
-* [Mead 002](Mead/Mead002.md)
-* 
+* [Meads index](Mead/index.md)
+    * [Mead 002](Mead/Mead002.md)
+    * 
