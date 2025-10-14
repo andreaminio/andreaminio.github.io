@@ -23,22 +23,67 @@
             }
           },
           {
-            "id": "25b1cdcf37b194c2",
+            "id": "151cd5413eaf1d9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrea_s_winemaking/Mead/Mead002.md",
+                "file": "Andrea_s_winemaking/Mead/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Mead002"
+              "title": "index"
+            }
+          },
+          {
+            "id": "1d830c4bbcf996f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Andrea_s_winemaking_notes/index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "e9b2f3fa462ba2b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Andrea_s_winemaking_notes/Yeasts/index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "25b1cdcf37b194c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Andrea_s_winemaking_notes/Yeasts/MJ_M02.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "MJ_M02"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -220,15 +265,16 @@
   },
   "active": "25b1cdcf37b194c2",
   "lastOpenFiles": [
-    "Andrea_s_winemaking/index.md",
-    "Andrea_s_winemaking/Mead/index.md",
-    "Andrea_s_winemaking/Mead/Mead002.md",
+    "Andrea_s_winemaking_notes/Yeasts/index.md",
+    "Andrea_s_winemaking_notes/Yeasts/MJ_M02.md",
     "Andrea_s_winemaking_notes/index.md",
+    "Andrea_s_winemaking/Mead/index.md",
+    "Andrea_s_winemaking/index.md",
+    "Andrea_s_winemaking/Mead/Mead002.md",
     "Andrea_s_winemaking/index2.md",
     "Andrea_s_winemaking_notes/Recipes/Index.md",
     "Andrea_s_winemaking_notes/Recipes/Pictures",
     "Andrea_s_winemaking_notes/Yeasts/Pictures",
-    "Andrea_s_winemaking_notes/Yeasts/index.md",
     "index.md",
     "Andrea_s_winemaking/Mead/Pictures",
     "Andrea_s_winemaking/Mead",
