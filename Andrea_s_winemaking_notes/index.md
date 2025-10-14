@@ -2,7 +2,7 @@
 menubar_toc: true
 ---
 
-# Andrea's Notes - Winemaking
+# Andrea's Winemaking Notes
 
 ## Recipes
 * [Recipes Index](Recipes/Index.md)
