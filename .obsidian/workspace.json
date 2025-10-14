@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrea_s_winemaking_notes/Yeasts/MJ_M02.md",
+                "file": "Andrea_s_winemaking/index.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MJ_M02"
+              "title": "index"
             }
           }
         ],
@@ -265,10 +265,10 @@
   },
   "active": "25b1cdcf37b194c2",
   "lastOpenFiles": [
+    "Andrea_s_winemaking_notes/Yeasts/MJ_M02.md",
     "Andrea_s_winemaking_notes/Recipes/Index.md",
     "Andrea_s_winemaking_notes/Recipes/Gin.md",
     "Andrea_s_winemaking_notes/Yeasts/index.md",
-    "Andrea_s_winemaking_notes/Yeasts/MJ_M02.md",
     "Andrea_s_winemaking_notes/index.md",
     "Andrea_s_winemaking/Mead/index.md",
     "Andrea_s_winemaking/index.md",
