@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrea_s_booze_repository/Booze1.md",
+                "file": "Andrea_s_booze_repository/Index.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Booze1"
+              "title": "Index"
             }
           },
           {
@@ -219,13 +219,21 @@
   },
   "active": "96a138cb49a56a02",
   "lastOpenFiles": [
+    "Andrea_s_booze_notes/Recipes/Index.md",
+    "Andrea_s_booze_notes/Recipes/Pictures",
+    "Andrea_s_booze_notes/Yeasts/Pictures",
+    "Andrea_s_booze_notes/Yeasts/index.md",
+    "Andrea_s_booze_notes/index.md",
+    "Andrea_s_booze_repository/Index.md",
     "index.md",
+    "Andrea_s_booze_repository/Mead/Mead 002.md",
+    "Andrea_s_booze_repository/Mead/Pictures",
+    "Andrea_s_booze_repository/Mead",
+    "Andrea_s_booze_notes/Recipes",
+    "Andrea_s_booze_notes/Yeasts",
+    "Andrea_s_booze_notes",
     "_config.yml~",
-    "Andrea_s_booze_repository/Booze1.md",
     "Andrea_s_booze_repository/_config.yml",
-    "to_change_config.yml~",
-    "_config.yml",
-    "to_change_config~.yml",
-    "Andrea_s_booze_repository"
+    "to_change_config.yml~"
   ]
 }

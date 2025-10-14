@@ -16,5 +16,6 @@
   },
   "showLineNumber": true,
   "smartIndentList": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "newLinkFormat": "relative"
 }
