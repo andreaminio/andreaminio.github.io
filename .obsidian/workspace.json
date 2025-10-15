@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrea_s_winemaking_notes/Recipes/Mead.md",
+                "file": "Andrea_s_winemaking_notes/index.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Mead"
+              "title": "index"
             }
           }
         ],
@@ -235,6 +235,8 @@
   },
   "active": "25b1cdcf37b194c2",
   "lastOpenFiles": [
+    "Andrea_s_winemaking_notes/Honey/index.md",
+    "Andrea_s_winemaking_notes/Recipes/Mead.md",
     "Andrea_s_winemaking_notes/Recipes/Cider.md",
     "Andrea_s_winemaking_notes/Recipes/Gin.md",
     "Andrea_s_winemaking_notes/index.md",
@@ -259,12 +261,10 @@
     "Andrea_s_winemaking/Cider/Pictures/JPG_1750497092335.jpg.png",
     "Andrea_s_winemaking/Cider/Pictures/JPG_1750496689462.jpg.png",
     "Andrea_s_winemaking/Cider/Pictures/Cider003",
-    "Andrea_s_winemaking_notes/Honey/index.md",
     "Andrea_s_winemaking_notes/Other_notes/index.md",
     "Andrea_s_winemaking_notes/Other_notes/Mead-Food_pairing.md",
     "Andrea_s_winemaking_notes/Yeasts/index.md",
     "Andrea_s_winemaking_notes/Yeasts/MJ_M02.md",
-    "Andrea_s_winemaking_notes/Recipes/Mead.md",
     "Andrea_s_winemaking_notes/Recipes/Wine.md",
     "Andrea_s_winemaking_notes/Recipes/Cidre",
     "Andrea_s_winemaking_notes/Other_notes",
