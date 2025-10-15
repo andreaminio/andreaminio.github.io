@@ -10,7 +10,7 @@ menubar_toc: true
 * Sparkling: **Yes**
 
 ## Ingredients
-- **2025.06.21 - First fermentation:**
+**2025.06.21 - First fermentation:**
         - 4l Zipperle succo torbido di mela
         - 2.5l Bravo rauch succo chiaro da concentrato
         - 2.5 tablespoons (2.5x5ml) nutrients
@@ -18,7 +18,7 @@ menubar_toc: true
         - 1/2 pack mangrove jack M02 yeast
         - Sliced Ginger (Zenzero)
  
- - **2025.07.06 - Bottling**
+**2025.07.06 - Bottling**
          - 70g/7l sugar for carbonation
          - Added erythritol (Eritritolo) for backsweetening to taste
 
