@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrea_s_winemaking/index.md",
+                "file": "Andrea_s_winemaking_notes/Honey/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrea_s_winemaking_notes/index.md",
+                "file": "Andrea_s_winemaking/Cider/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrea_s_winemaking/index.md",
+                "file": "Andrea_s_winemaking/Mead/index.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
@@ -82,8 +82,7 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,27 +262,31 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "25b1cdcf37b194c2",
+  "active": "96a138cb49a56a02",
   "lastOpenFiles": [
-    "Andrea_s_winemaking_notes/Yeasts/MJ_M02.md",
+    "Andrea_s_winemaking/Mead/Mead002.md",
+    "Andrea_s_winemaking_notes/Honey/index.md",
+    "Andrea_s_winemaking_notes/Honey",
+    "Andrea_s_winemaking/Mead/index.md",
+    "Andrea_s_winemaking/Fortified liquors/index.md",
+    "Andrea_s_winemaking/Fortified liquors/Pictures",
+    "Andrea_s_winemaking/index.md",
+    "Andrea_s_winemaking/Fortified liquors",
+    "Andrea_s_winemaking/Cider/index.md",
+    "Andrea_s_winemaking/Cider/Pictures",
+    "Andrea_s_winemaking/Wine/Pictures",
+    "Andrea_s_winemaking/Wine/index.md",
+    "Andrea_s_winemaking_notes/index.md",
+    "Andrea_s_winemaking/Cider",
+    "Andrea_s_winemaking/Wine",
     "Andrea_s_winemaking_notes/Recipes/Index.md",
+    "Andrea_s_winemaking_notes/Yeasts/MJ_M02.md",
     "Andrea_s_winemaking_notes/Recipes/Gin.md",
     "Andrea_s_winemaking_notes/Yeasts/index.md",
-    "Andrea_s_winemaking_notes/index.md",
-    "Andrea_s_winemaking/Mead/index.md",
-    "Andrea_s_winemaking/index.md",
-    "Andrea_s_winemaking/Mead/Mead002.md",
     "Andrea_s_winemaking/index2.md",
     "Andrea_s_winemaking_notes/Recipes/Pictures",
     "Andrea_s_winemaking_notes/Yeasts/Pictures",
     "index.md",
-    "Andrea_s_winemaking/Mead/Pictures",
-    "Andrea_s_winemaking/Mead",
-    "Andrea_s_winemaking_notes/Recipes",
-    "Andrea_s_winemaking_notes/Yeasts",
-    "Andrea_s_winemaking_notes",
-    "_config.yml~",
-    "Andrea_s_booze_repository/_config.yml",
-    "to_change_config.yml~"
+    "Andrea_s_winemaking/Mead/Pictures"
   ]
 }

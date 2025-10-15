@@ -2,11 +2,11 @@
 menubar_toc: true
 ---
 
-# Mead 002
-## ABV content >> 13.5% ABV
-## Timing
-* *Prepared* >> **2025.06.21**
-* *Bottled* >> **2025.08.23**
+# Mead 002 - Dry, 13.5% ABV
+## Characteristics
+* ABV content: **13.5% ABV**
+* Sweetness: **Dry**
+* Sparkling: **No**
 
 ## Ingredients
 * 2025.06.21 - First fermentation: 
@@ -15,6 +15,9 @@ menubar_toc: true
      - 1/2 pack Red Star, Premiere Côte des Blancs yeast
  - 2025.08.04 - Boost fermentation
      - 1/2 pack yeast Lalvin EC-1118
+## Timing
+* *Prepared* >> **2025.06.21**
+* *Bottled* >> **2025.08.23**
 
 ## Quantity
 * start - 5 litres (glass jar)
