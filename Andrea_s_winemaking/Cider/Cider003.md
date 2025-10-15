@@ -23,10 +23,10 @@ menubar_toc: true
 
 ## Pictures
 <p float="left">
-  <img src="Pictures/JPG_1750496548988.jpg.png" width="100" />
-  <img src="Pictures/JPG_1750496689462.jpg.png" width="100" /> 
-  <img src="Pictures/JPG_1750497103965.jpg.png" width="100" />
-  <img src="Pictures/JPG_1750497092335.jpg.png" width="100" />
+    <a href="Pictures/JPG_1750496548988.jpg.png"><img src="Pictures/JPG_1750496548988.jpg.png" width="100" /></a>
+    <a href="Pictures/JPG_1750496689462.jpg.png"><img src="Pictures/JPG_1750496689462.jpg.png" width="100" /></a>
+    <a href="Pictures/JPG_1750497103965.jpg.png"><img src="Pictures/JPG_1750497103965.jpg.png" width="100" /></a>
+    <a href="Pictures/JPG_1750497092335.jpg.png"><img src="Pictures/JPG_1750497092335.jpg.png" width="100" /></a>
 </p>
 
 

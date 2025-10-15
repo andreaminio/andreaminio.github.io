@@ -30,7 +30,7 @@
               "state": {
                 "file": "Andrea_s_winemaking/Cider/Cider003.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
