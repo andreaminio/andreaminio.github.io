@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrea_s_winemaking_notes/index.md",
+                "file": "Andrea_s_winemaking_notes/Recipes/Gin.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Gin"
             }
           }
         ],
@@ -295,6 +295,7 @@
   },
   "active": "25b1cdcf37b194c2",
   "lastOpenFiles": [
+    "Andrea_s_winemaking_notes/index.md",
     "Andrea_s_winemaking/Mead/index.md",
     "Andrea_s_winemaking_notes/Recipes/Index.md",
     "Andrea_s_winemaking/Cider/index.md",
@@ -331,7 +332,6 @@
     "Andrea_s_winemaking/Fortified liquors",
     "Andrea_s_winemaking/Cider/Pictures",
     "Andrea_s_winemaking/Wine/Pictures",
-    "Andrea_s_winemaking_notes/index.md",
     "Andrea_s_winemaking/index2.md",
     "index.md"
   ]
