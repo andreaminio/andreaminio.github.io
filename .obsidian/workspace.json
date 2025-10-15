@@ -30,7 +30,7 @@
               "state": {
                 "file": "Andrea_s_winemaking/Cider/Cider003.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -295,12 +295,12 @@
   },
   "active": "16dbc381e6335dac",
   "lastOpenFiles": [
-    "Andrea_s_winemaking/Cider/index.md",
+    "Andrea_s_winemaking/Cider/Pictures/JPG_1750496548988.jpg.png",
     "Andrea_s_winemaking/Cider/Cider003.md",
-    "Andrea_s_winemaking/Cider/Pictures/Cider003/JPG_1750497103965.jpg.png",
-    "Andrea_s_winemaking/Cider/Pictures/Cider003/JPG_1750497092335.jpg.png",
-    "Andrea_s_winemaking/Cider/Pictures/Cider003/JPG_1750496689462.jpg.png",
-    "Andrea_s_winemaking/Cider/Pictures/Cider003/JPG_1750496548988.jpg.png",
+    "Andrea_s_winemaking/Cider/index.md",
+    "Andrea_s_winemaking/Cider/Pictures/JPG_1750497103965.jpg.png",
+    "Andrea_s_winemaking/Cider/Pictures/JPG_1750497092335.jpg.png",
+    "Andrea_s_winemaking/Cider/Pictures/JPG_1750496689462.jpg.png",
     "Andrea_s_winemaking/Cider/Pictures/Cider003",
     "Andrea_s_winemaking/Cider/Cider002.md",
     "Andrea_s_winemaking/Empty card.md",

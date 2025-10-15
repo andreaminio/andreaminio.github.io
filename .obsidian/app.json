@@ -7,7 +7,7 @@
   "newFileLocation": "current",
   "useMarkdownLinks": true,
   "promptDelete": false,
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "././Pictures",
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,
