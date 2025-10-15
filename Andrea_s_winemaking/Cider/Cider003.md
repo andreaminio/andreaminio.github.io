@@ -21,7 +21,7 @@ menubar_toc: true
      - 70g/7l sugar for carbonation
      - Added erythritol (Eritritolo) for backsweetening to taste
 
-**Pictures**
+## Pictures
 <p float="left">
   <img src="Pictures/JPG_1750496548988.jpg.png" width="100" />
   <img src="Pictures/JPG_1750496689462.jpg.png" width="100" /> 
