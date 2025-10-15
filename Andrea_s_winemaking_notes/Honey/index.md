@@ -6,61 +6,90 @@ menubar_toc: true
 
 ## Literature on different kinds of honey in mead
 ### Good
-- Alfalfa (erba medica, _Medicago sativa_): 
+- **Alfalfa (erba medica, _Medicago sativa_)** 
     - high dextrose, low ash, low nitrogen.
 
-- Pumpkin blossom - all day every day. Oh so good and rich. Oh wait nvm this is horrible honey never buy this just let me know where you find it so I can umm destroy all the stock.
+- **Blackberry**:
+    - High pH (5.0), high Maltose (11.3%), high ash, high nitrogen.
 
-- Tupelo - buttery rich and oh so pricey but worth every cent.
-    - White tupelo is the primary source for the light unblended honey sold as tupelo honey. It has a very high levulose content, low dextrose and high maltose count, which make it attractive to brewers. Low ash, high Acids and moderate pH
-
-- Orange blossom - perfect balance of flavour and acidity straight up. This is the one I recommend people start with.
-    - Flavor profile and characteristics:
-        - Orange blossom honey offers a distinct citrus aroma with sweet, floral undertones. Zesty, juicy and floral character shines through in the finished mead, especially when Orange Blossom Honey is used for backsweetening.
-    - Tips for using Orange Blossom Honey for Mead Making:
-        - Orange Blossom Honey is perfect for making refreshing, aromatic meads, especially when aiming for lighter, fruit-forward beverages.
-        - This honey style is excellent for making melomels (fruited meads), because the citrusy character adds even more fruit character.
-
-- Blueberry - like a light version of orange blossom
+- **Blueberry**
+    - like a light version of orange blossom
     - High Maltose, low acid, higher pH, high nitrogen.
 
-* Chestnut - love it or hate it
+- **Buckwheat**
+    - watch the type though. Taste it first before buying a lot as some strains are musty and odd.
+
+- **Carrot blossom**
+    - neat and earthy.
+
+- **Cherry or apple blossom**
+    - like drinking in the aroma of spring.
+       
+* **Chestnut**
+    * *love it or hate it*
     * Gives the mead a really deep beautiful color and some much appreciated tannins
     * The chestnut honey gives a lot of bochet-like flavours without any kind of heavily caramelized sugar.
     * Intense dry flavour with strong accents of malt
     * It is smooth and sweet (but dry according to my hydrometer), a fantastic mouthfeel, the oak gave some vanilla flavours I really dig.
     * There is a bit of acidity as you would expect from a dry mead but it is unidimensional.
 
-- Chicory - mentholly an refreshing in a good way. Perfect palate cleanser between courses.
+- **Chicory**
+    - mentholly an refreshing in a good way. Perfect palate cleanser between courses.
 
-* _Citrus_
+- **Christmas Berry Honey**
+    - Flavor profile and characteristics
+        - Harvested from Hawaiian Christmas Berry (Wilelaiki) blossoms, this honey is bright golden yellow and slower to crystallize. Christmas Berry Honey has a nice fruit flavor and an herbal, slightly spiced aftertaste. Some have described it as having a butterscotch-like flavor.
+    - Tips for using Christmas Berry Honey for Mead Making:
+        - This honey’s unique sweet & confectionary tasting notes makes it perfect for a batch of holiday mead or spiced mead! Consider adding mulling spices or caramelizing the honey before fermentation to make a “bochet” (carmelized honey mead).
+
+* **Citrus**
     * By analysis of the numbers, citrus honey appears to be an excellent candidate for brewing. While the dextrose level is a bit high, moisture is low, pH is in the middle, and ash content is very low. The low nitrogen content might dictate higher than normal yeast nutrient use. Citrus honey of any blend is marketed as "Orange Blossom," and is light in flavor and very aromatic. Micah Millspaw has made some excellent mead from orange blossom honey.
 
-- Meadowfoam - can you say toasted marshmallow?
+- **Meadowfoam** 
+    - can you say toasted marshmallow?
 
+- **Orange blossom** 
+    - perfect balance of flavour and acidity straight up. This is the one I recommend people start with.
+    - Flavor profile and characteristics:
+        - Orange blossom honey offers a distinct citrus aroma with sweet, floral undertones. Zesty, juicy and floral character shines through in the finished mead, especially when Orange Blossom Honey is used for backsweetening.
+    - Tips for using Orange Blossom Honey for Mead Making:
+        - Orange Blossom Honey is perfect for making refreshing, aromatic meads, especially when aiming for lighter, fruit-forward beverages.
+        - This honey style is excellent for making melomels (fruited meads), because the citrusy character adds even more fruit character.
+
+- **Poison oak or ivy**
+    - buttery an awesome. No you won't react to it.
+
+- **Pumpkin blossom -** 
+    - all day every day. Oh so good and rich. Oh wait nvm this is horrible honey never buy this just let me know where you find it so I can umm destroy all the stock.
+
+- **Snowberry**
+    - neat residual acidity a great mead to age.
+
+- **Tupelo** 
+    - buttery rich and oh so pricey but worth every cent.
+    - White tupelo is the primary source for the light unblended honey sold as tupelo honey. It has a very high levulose content, low dextrose and high maltose count, which make it attractive to brewers. Low ash, high Acids and moderate pH
+
+
+
+
+---
+> To sort 
+---
 
 
 - Fireweed - awesome stuff. Very floral
     - [Epilobium angustifolium - Wikipedia](https://it.wikipedia.org/wiki/Epilobium_angustifolium)
     - Other than slightly lower than normal total acids and ash, fireweed honey looks like a very average honey. Fireweed honey did not express a dramatic nose or flavor, and doesn't seem to create much of a stir as a mead.
 
-- Snowberry - neat residual acidity a great mead to age.
 
-- Cherry or apple blossom - like drinking in the aroma of spring.
 
-- Carrot blossom - neat and earthy.
 
-- Poison oak or ivy - buttery an awesome. No you won't react to it.
 
 - Heather - another way too pricey but awesome one. Very floral and rich.
 
-- Buckwheat - watch the type though. Taste it first before buying a lot as some strains are musty and odd.
 
-- Christmas Berry Honey
-    - Flavor profile and characteristics
-        - Harvested from Hawaiian Christmas Berry (Wilelaiki) blossoms, this honey is bright golden yellow and slower to crystallize. Christmas Berry Honey has a nice fruit flavor and an herbal, slightly spiced aftertaste. Some have described it as having a butterscotch-like flavor.
-    - Tips for using Christmas Berry Honey for Mead Making:
-        - This honey’s unique sweet & confectionary tasting notes makes it perfect for a batch of holiday mead or spiced mead! Consider adding mulling spices or caramelizing the honey before fermentation to make a “bochet” (carmelized honey mead).
+
+
 
 * Mango Blossom Honey
     * Flavor profile and characteristics:
@@ -79,8 +108,7 @@ menubar_toc: true
 - Japanese Bamboo: 
     - High Maltose, higher pH, low to medium ash, high nitrogen.
 
-- Blackberry: 
-    - High pH (5.0), high Maltose (11.3%), high ash, high nitrogen.
+
 
 - Chinquapin: 
     - Low moisture, low dextrose, high maltose, very high other sugars, very high ash (.761%).
