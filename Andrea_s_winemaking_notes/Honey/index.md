@@ -75,7 +75,7 @@ menubar_toc: true
 
 
 - **Miele di acacia**
-    - <a href="Pictures/d53d864bc0b2cafb14cc18ac3a1de595_MD5.jpg"><p float="left"><img src="Pictures/d53d864bc0b2cafb14cc18ac3a1de595_MD5.jpg" width="100" /> </p></a>
+    - <a href="Pictures/d53d864bc0b2cafb14cc18ac3a1de595_MD5.jpg"><img src="Pictures/d53d864bc0b2cafb14cc18ac3a1de595_MD5.jpg" width="150" /></a>
     - Il miele di acacia è un miele monofloreale ed è il miele più diffuso e apprezzato in Italia.
     - Il miele di acacia è un miele pallido, liquido, quasi simile al vetro. È ottenuto dalle api che si nutrono di fiori di acacia. Il miele di acacia tende a non cristallizzare perché ricco di fruttosio e ha un gusto molto gradevole in grado di soddisfare un po’ tutti i palati.
 
@@ -86,30 +86,30 @@ menubar_toc: true
     - Miele millefiori scuro: si produce sul finire dell’estate, ha una colorazione scura o ambrata. Il gusto è più deciso rispetto alla variante precedente con un retrogusto leggermente amarognolo. Ricorda molto il miele di castagno. La consistenza è cremosa e la sua cristallizzazione è più lenta.
 
 - **Miele di castagno**
-    - <a href="Pictures/3e097967ff414dda1c3f8a3487324718_MD5.jpg"><p float="left"><img src="Pictures/3e097967ff414dda1c3f8a3487324718_MD5.jpg" width="100" /> </p></a>
+    - <a href="Pictures/3e097967ff414dda1c3f8a3487324718_MD5.jpg"><img src="Pictures/3e097967ff414dda1c3f8a3487324718_MD5.jpg"  width="150" /></a>
     - Il miele di castagno si produce a partire dal nettare della pianta omonima, molto diffusa in tutto il nostro Appennino. È tra i mieli con un colore scuro, marrone molto intenso.
     - Non fatevi ingannare dal colore scuro del miele: più un miele è scuro più la sua azione antiossidante è considerevole!
     - Il profumo del miele di castagno è più incisivo rispetto a quello degli altri mieli, leggermente acre e pungente. Anche il gusto rispecchia queste sue peculiarità: amarognolo e deciso. La dolcezza, quindi, non è proprio il suo tratto distintivo: per questo motivo può non essere indicato come dolcificante ma è ottimo invece per accompagnare i formaggi! Anche in questo caso, vista la maggior presenza di fruttosio rispetto al glucosio, difficilmente cristallizza.
 
 - **Miele di colza**
-     - <a href="Pictures/47057c76d0961e71cbd7de439d9d3d6f_MD5.jpg"><p float="left"><img src="Pictures/47057c76d0961e71cbd7de439d9d3d6f_MD5.jpg" width="100" /> </p></a>
-     - La colza è una pianta i cui fiori sono di un di colore giallo molto intenso. È molto precoce perché fiorisce da aprile a giugno. I fiori sono particolarmente ricchi di nettare e polline e questo permette di ottenere una grande quantità di miele.
-     - Il miele di colza è un miele molto dolce dal colore chiaro con sfumature che vanno dal giallo, al beige e al bianco. Proprio per la sua dolcezza è tra i tipi di miele preferito dai bambini!
-     - È anche leggermente cremoso e tende a cristallizzarsi più velocemente di quasi tutti gli altri tipi di miele, diventando solido e duro. In questo caso, non vi preoccupate, è sufficiente mescolare energicamente il miele per ridargli una consistenza cremosa.
+    - <a href="Pictures/47057c76d0961e71cbd7de439d9d3d6f_MD5.jpg"><img src="Pictures/47057c76d0961e71cbd7de439d9d3d6f_MD5.jpg"  width="150" /></a>
+    - La colza è una pianta i cui fiori sono di un di colore giallo molto intenso. È molto precoce perché fiorisce da aprile a giugno. I fiori sono particolarmente ricchi di nettare e polline e questo permette di ottenere una grande quantità di miele.
+    - Il miele di colza è un miele molto dolce dal colore chiaro con sfumature che vanno dal giallo, al beige e al bianco. Proprio per la sua dolcezza è tra i tipi di miele preferito dai bambini!
+    - È anche leggermente cremoso e tende a cristallizzarsi più velocemente di quasi tutti gli altri tipi di miele, diventando solido e duro. In questo caso, non vi preoccupate, è sufficiente mescolare energicamente il miele per ridargli una consistenza cremosa.
 
 - **Miele di tiglio**
-    - <a href="Pictures/14b51514f5c66f0d8f5144c94e88ea7f_MD5.jpg"><p float="left"><img src="Pictures/14b51514f5c66f0d8f5144c94e88ea7f_MD5.jpg" width="100" /> </p></a>
+    - <a href="Pictures/14b51514f5c66f0d8f5144c94e88ea7f_MD5.jpg"><img src="Pictures/14b51514f5c66f0d8f5144c94e88ea7f_MD5.jpg" width="150" /></a>
     - Il miele di tiglio è tra i più delicati in commercio e ha un colore dorato chiaro. Il suo sapore è dolce e con un aroma che rimanda ai fiori di tiglio. La sua dolcezza e la sua fluidità lo rendono molto adatto ad essere utilizzato come sostituto dello zucchero tradizionale in vari tipi di bevande.
     - Il suo profumo è meno intenso rispetto ad altri tipi di miele, ma il suo sapore e il suo aroma delicato lo rendono particolarmente sofisticato.
 
 - **Miele di Stachys**
-    - <a href="Pictures/efa4ef32c647d3a3d605cc021ca6fd13_MD5.jpg"><p float="left"><img src="Pictures/efa4ef32c647d3a3d605cc021ca6fd13_MD5.jpg" width="100" /> </p></a>
+    - <a href="Pictures/efa4ef32c647d3a3d605cc021ca6fd13_MD5.jpg"><img src="Pictures/efa4ef32c647d3a3d605cc021ca6fd13_MD5.jpg"  width="150" /></a>
     - La Stachys è un'erba officinale che cresce sulle stoppie di grano (residuo degli steli) dopo la trebbiatura.
     - Il miele che si ottiene da quest’erba è estremamente elegante e molto raro, perché il processo per ottenerlo è complesso. Ha una consistenza molto cremosa, quasi burrosa a seguito della cristallizzazione che è quasi assente. Ha un colore bianco latte, gusto dolce ma non troppo, con note che rimandano alle mandorle e al fieno.
     - Una curiosità: è uno dei mieli che meglio si presta a caramellare le carni rosse in cucina! 
 
 - **Miele di Tarassaco**
-    - <a href="Pictures/c28a1a2f47584af3e9b157a7945793d7_MD5.jpg"><p float="left"><img src="Pictures/c28a1a2f47584af3e9b157a7945793d7_MD5.jpg" width="100" /> </p></a>
+    - <a href="Pictures/c28a1a2f47584af3e9b157a7945793d7_MD5.jpg"><img src="Pictures/c28a1a2f47584af3e9b157a7945793d7_MD5.jpg"  width="150" /></a>
     - Il tarassaco è una pianta erbacea che cresce spontaneamente in zone pianeggianti e montuose. Il miele di tarassaco ha un colore giallo intenso e con un sentore pungente, intenso, persistente, che ricorda l’ammoniaca. Il sapore, tuttavia, è delicato e balsamico, con un retrogusto di camomilla.
 
 - **Miele di Girasole**
