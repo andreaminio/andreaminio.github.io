@@ -22,7 +22,13 @@ menubar_toc: true
      - Added erythritol (Eritritolo) for backsweetening to taste
 
 **Pictures**
-![JPG_1750496548988.jpg|200](Pictures/JPG_1750496548988.jpg.png) ![JPG_1750496689462.jpg|200](Pictures/JPG_1750496689462.jpg.png) ![JPG_1750497103965.jpg|200](Pictures/JPG_1750497103965.jpg.png) ![JPG_1750497092335.jpg|200](Pictures/JPG_1750497092335.jpg.png) 
+<p float="left">
+  <img src="Pictures/JPG_1750496548988.jpg.png" width="100" />
+  <img src="Pictures/JPG_1750496689462.jpg.png" width="100" /> 
+  <img src="Pictures/JPG_1750497103965.jpg.png" width="100" />
+  <img src="Pictures/JPG_1750497092335.jpg.png" width="100" />
+</p>
+
 
 
 ## Timeline
