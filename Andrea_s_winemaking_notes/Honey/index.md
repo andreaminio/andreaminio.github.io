@@ -1,3 +1,7 @@
+---
+menubar_toc: true
+---
+
 # Honey
 
 ## Literature on different kinds of honey in mead

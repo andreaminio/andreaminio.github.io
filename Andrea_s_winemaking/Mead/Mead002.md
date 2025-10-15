@@ -15,9 +15,11 @@ menubar_toc: true
      - 1/2 pack Red Star, Premiere Côte des Blancs yeast
  - 2025.08.04 - Boost fermentation
      - 1/2 pack yeast Lalvin EC-1118
-## Timing
-* *Prepared* >> **2025.06.21**
-* *Bottled* >> **2025.08.23**
+
+## Timeline
+* 2025.06.21 - Prepared
+* 2025.08.04 - Boost fermentation
+* 2025.08.23 - Bottled
 
 ## Quantity
 * start - 5 litres (glass jar)
