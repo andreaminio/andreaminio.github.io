@@ -19,7 +19,17 @@ menubar_toc: true
  - 2025.08.23 - Bottling
      - Added 45g/4.5l sugar for carbonation
      - Added erythritol (Eritritolo) for backsweetning to taste
-- 
+
+## Pictures
+<p float="left">
+    <a href="Pictures/JPG_1750496548988.jpg.png"><img src="Pictures/JPG_1750496548988.jpg.png" width="100" /></a>
+    <a href="Pictures/JPG_1750496689462.jpg.png"><img src="Pictures/JPG_1750496689462.jpg.png" width="100" /></a>
+    <a href="Pictures/JPG_1750497103965.jpg.png"><img src="Pictures/JPG_1750497103965.jpg.png" width="100" /></a>
+    <a href="Pictures/JPG_1750497092335.jpg.png"><img src="Pictures/JPG_1750497092335.jpg.png" width="100" /></a>
+</p>
+
+## Videos
+
 ## Timeline
 * 2025.06.21 - Prepared
 * 2025.08.04 - Boost fermentation

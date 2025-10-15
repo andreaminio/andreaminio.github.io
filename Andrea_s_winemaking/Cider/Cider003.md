@@ -29,8 +29,6 @@ menubar_toc: true
     <a href="Pictures/JPG_1750497092335.jpg.png"><img src="Pictures/JPG_1750497092335.jpg.png" width="100" /></a>
 </p>
 
-
-
 ## Timeline
 * 2025.06.21 - Prepared
 * 2025.07.06 - Bottled

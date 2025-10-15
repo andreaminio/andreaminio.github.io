@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Andrea_s_winemaking/Empty card.md",
+                "file": "Andrea_s_winemaking_notes/Recipes/Gin.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Empty card"
+              "title": "Gin"
             }
           },
           {
@@ -143,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -323,12 +323,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "16dbc381e6335dac",
+  "active": "b3955c5e6f7bf096",
   "lastOpenFiles": [
-    "Andrea_s_winemaking/index.md",
-    "Andrea_s_winemaking/Mead/Mead002.md",
     "Andrea_s_winemaking/Empty card.md",
     "Andrea_s_winemaking/Cider/Cider003.md",
+    "Andrea_s_winemaking/index.md",
+    "Andrea_s_winemaking/Mead/Mead002.md",
     "Andrea_s_winemaking/Cider/index.md",
     "Andrea_s_winemaking/Mead/index.md",
     "Andrea_s_winemaking/Cyser/index.md",
