@@ -5,11 +5,9 @@ menubar_toc: true
 # Juniper mead / Gin recipes
 
 ## Juniper mead 
-### Note on juniper berries ratio
+### Ratio #1: 1 oz / gallon
 
-### 1 oz / gallon
-
-### 4 berries / 750cl
+### Ratio #2: 4 berries / 750cl
 
 ### Infusion
     - Infusion 4oz juniper fronds with berries/Gallon -> 5 lbs wildflower honey
