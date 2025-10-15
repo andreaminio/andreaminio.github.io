@@ -10,7 +10,7 @@ menubar_toc: true
 * Sparkling: **Yes**
 
 ## Ingredients
-**2025.06.21 - First fermentation:**
+- **2025.06.21 - First fermentation:**
 ```
     - 4l Zipperle succo torbido di mela
     - 2.5l Bravo rauch succo chiaro da concentrato
@@ -20,7 +20,7 @@ menubar_toc: true
     - Sliced Ginger (Zenzero)
 ```
  
-**2025.07.06 - Bottling**
+- **2025.07.06 - Bottling**
 ```
     - 70g/7l sugar for carbonation
     - Added erythritol (Eritritolo) for backsweetening to taste
