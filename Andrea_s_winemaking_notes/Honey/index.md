@@ -120,7 +120,9 @@ menubar_toc: true
     - È uno dei mieli più rari e salutari in commercio. In confronto al tradizionale miele di nettare, quello di melata è meno dolce, il sapore ricorda quello del caramello, con retrogusto leggermente amarognolo. Il colore è molto scuro, quasi nero, mentre la consistenza è compatta come quella del miele di nettare, ma non tende a cristallizzarsi.
 
 ---
+
 > To sort 
+
 ---
 
 
@@ -180,6 +182,32 @@ menubar_toc: true
 * _Tulip Poplar_: 
     * Tulip Poplar honey is a very distinctive honey in aroma, and although one of the darker honeys, has a mild and appealing flavor. Tulip poplar honey has a high maltose content, lending to its complexity, and, like other dark honeys, is high in ash content. Tulip poplar honey is widely available from the north to the south throughout the midwest.
 
+
+
+
+**Miele d’acacia**: ha proprietà lassative, antinfiammatorie per la gola, disintossicanti per il fegato e tonificanti in genere. Inoltre aiuta a ridurre l’acidità di stomaco. Ha un colore molto chiaro, con fragranze floreali, e un sapore vanigliato.
+
+**Miele di agrumi:** ha proprietà antispastiche, sedative e cicatrizzanti per le ulcere, un colore chiarissimo e un sapore floreale-fruttato, un po’ acidulo.
+
+**Miele di castagno**: agevola la circolazione sanguigna oltre ad avere azione astringente, antispasmodica e disinfettante delle vie urinarie; ha un colore piuttosto scuro e un sapore deciso dal retrogusto amaro.
+
+**Miele di eucalipto**: dalle proprietà antiasmatiche, espettoranti e antibiotiche è buono per alleviare raffreddore e tosse. Ha un colore ambrato, un profumo pungente e un sapore maltato e molto aromatico.
+
+**Miele millefiori**: tra i tipi di miele più noti e diffusi, il millefiori ha mille proprietà: ottimo un po’ per tutti, dai giovani in crescita agli anziani agli sportivi, rinvigorisce e decongestiona, oltre ad avere proprietà calmanti della tosse e azione cardiotropa. In più disintossica il fegato, regola l’attività dell’intestino, è antianemico e diuretico. Il colore può essere più o meno scuro, dipende della stagione e dai fiori più presenti nel territorio, fattore che ne influenza, caratterizzandoli, anche l’odore e il sapore.
+
+**Miele di sulla**: dal sapore “vegetale”, dall’odore molto delicato e dal colore chiaro (quasi bianco quando è cristallizzato) questo miele ha proprietà tonificanti, energetiche e diuretiche. Buono per purificare il fegato e come regolatore intestinale, ha una fragranza che sa di fiori e contiene buone percentuali di vitamine A, B e C.
+
+**Miele balsamico**: contiene oli essenziali di pino, menta, timo e anche la proponi e ha un effetto balsamico che dona immediato sollievo a chi ha problemi alle vie respiratorie a causa di influenza o raffreddore.
+
+### MIELI MENO COMUNI
+
+**Miele di tiglio**: dalle proprietà calmanti, diuretiche e digestive funge anche da sedativo per i dolori mestruali e può essere di aiuto contro l’insonnia. Buono anche per tisane espettoranti, è di colore chiaro o anche scuro (dipende dal contenuto in melata), ha un odore balsamico e un sapore dal retrogusto amaro.
+
+**Miele di timo**: anche questo tipo di miele ha proprietà calmanti, e poi antisettiche e febbrifughe oltre a essere consigliato nei casi di debolezza di reni. Dalla cristallizzazione veloce, il colore è ambrato, più scuro quanto più diventa denso. Ha un aroma decisamente forte, di erbe aromatiche, che a volte può sembrare quasi chimico, cosa che si riflette nel caratteristico sapore.
+
+**Miele di melata d’abete**: ha proprietà antisettiche per i polmoni e le vie aeree, contrasta i mali di stagione come l’influenza, le faringiti, le bronchiti ma anche l’asma. Ha un sapore balsamico e un odore di zucchero caramellato o legno bruciato e un colore scuro.
+
+**Miele di erica**: ha proprietà antireumatiche e diuretiche oltre a disinfettare le vie urinarie; cristallizza velocemente e ha un aspetto denso, per un colore che va sull’arancione. Il sapore è tipicamente caramellato.
 
 
 
