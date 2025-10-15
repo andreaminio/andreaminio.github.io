@@ -21,8 +21,12 @@ menubar_toc: true
      - 70g/7l sugar for carbonation
      - Added erythritol (Eritritolo) for backsweetening to taste
 
-> [!NOTE]- Pictures
-> ![JPG_1750496548988.jpg|200](Pictures/Cider003/JPG_1750496548988.jpg.png) ![JPG_1750496689462.jpg|200](Pictures/Cider003/JPG_1750496689462.jpg.png) ![JPG_1750497103965.jpg|200](Pictures/Cider003/JPG_1750497103965.jpg.png) ![JPG_1750497092335.jpg|200](Pictures/Cider003/JPG_1750497092335.jpg.png)
+### Pictures
+
+| ![JPG_1750496548988.jpg](Pictures/Cider003/JPG_1750496548988.jpg.png) | ![JPG_1750496689462.jpg](Pictures/Cider003/JPG_1750496689462.jpg.png) | ![JPG_1750497103965.jpg](Pictures/Cider003/JPG_1750497103965.jpg.png) | ![JPG_1750497092335.jpg](Pictures/Cider003/JPG_1750497092335.jpg.png) | 
+| ----------------------- | ------------------------------------------------- | ----------------------- | ------------------------------------------------- | 
+
+
 
 
 ## Timeline

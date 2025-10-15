@@ -5,8 +5,8 @@ menubar_toc: true
 
 # Cider
 ## Available
-* [[Cider002]]
-* [[Cider003]]
+* [Cider002](Cider002.md)
+* [Cider003](Cider003.md)
 * [[Cider004]]
 * [[Cider005]]
 

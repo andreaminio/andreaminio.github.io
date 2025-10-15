@@ -30,7 +30,7 @@
               "state": {
                 "file": "Andrea_s_winemaking/Cider/Cider003.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -295,15 +295,15 @@
   },
   "active": "16dbc381e6335dac",
   "lastOpenFiles": [
+    "Andrea_s_winemaking/Cider/index.md",
+    "Andrea_s_winemaking/Cider/Cider003.md",
     "Andrea_s_winemaking/Cider/Pictures/Cider003/JPG_1750497103965.jpg.png",
     "Andrea_s_winemaking/Cider/Pictures/Cider003/JPG_1750497092335.jpg.png",
     "Andrea_s_winemaking/Cider/Pictures/Cider003/JPG_1750496689462.jpg.png",
     "Andrea_s_winemaking/Cider/Pictures/Cider003/JPG_1750496548988.jpg.png",
-    "Andrea_s_winemaking/Cider/Cider003.md",
     "Andrea_s_winemaking/Cider/Pictures/Cider003",
     "Andrea_s_winemaking/Cider/Cider002.md",
     "Andrea_s_winemaking/Empty card.md",
-    "Andrea_s_winemaking/Cider/index.md",
     "Andrea_s_winemaking/Mead/Mead002.md",
     "Andrea_s_winemaking/Mead/index.md",
     "Andrea_s_winemaking/Fortified liquors/index.md",
