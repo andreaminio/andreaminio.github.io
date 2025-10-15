@@ -19,9 +19,15 @@ menubar_toc: true
 * Sour Mead
 
 ## Cider  (Apple based) >>[index](Cider/index.md)
+* 
+* [Cider 002](Cider/Cider002.md)
+* [Cider 003](Cider/Cider003.md)
 
 ## Cyser (Honey + Apple) >>[index](Cyser/index.md)
+* 
 
 ## Fruit wine >>[index](Wine/index.md)
+* 
 
 ## Fortified liquors >>[index](Fortified/index.md)
+* 
