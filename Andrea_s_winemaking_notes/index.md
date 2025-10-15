@@ -6,7 +6,7 @@ menubar_toc: true
 
 ## Recipes
 * [Recipes Index](Recipes/Index.md)
-    * 
+    * [Gin](Recipes/Gin.md)
 
 ## Yeasts
 * [Yeast info index](Yeasts/index.md)
