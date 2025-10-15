@@ -9,16 +9,21 @@ menubar_toc: true
 * Sweetness: **Dry**
 * Sparkling: **Yes**
 
+
 ## Ingredients
-* 2025.06.21 - First fermentation: 
-     - 1.5kg wildflower honey (miele millefiori) Fam Girardi (Pietro)
-     - 1 TBS nutrients
-     - 1/2 pack Red Star, Premiere Côte des Blancs yeast
- - 2025.08.04 - Boost fermentation
-     - 1/2 pack yeast Lalvin EC-1118
- - 2025.08.23 - Bottling
-     - Added 45g/4.5l sugar for carbonation
-     - Added erythritol (Eritritolo) for backsweetning to taste
+2025.06.21 - **First fermentation**
+
+    - 4l Zipperle succo torbido di mela
+    - 2.5l Bravo rauch succo chiaro da concentrato
+    - 2.5 tablespoons (2.5x5ml) nutrients
+    - 2.5 tablespoons (2.5x5ml)  pectolase
+    - 1/2 pack mangrove jack M02 yeast
+    - Sliced Ginger (Zenzero)
+
+2025.07.06 - **Bottling**
+
+    - 70g/7l sugar for carbonation
+    - Added erythritol (Eritritolo) for backsweetening to taste
 
 ## Pictures
 <p float="left">

@@ -9,11 +9,14 @@ menubar_toc: true
 * Sparkling: **No**
 
 ## Ingredients
-* 2025.06.21 - First fermentation: 
+2025.06.21 - **First fermentation**
+     
      - 1.5kg wildflower honey (miele millefiori) Fam Girardi (Pietro)
      - 1 TBS nutrients
      - 1/2 pack Red Star, Premiere Côte des Blancs yeast
- - 2025.08.04 - Boost fermentation
+
+2025.08.04 - **Boost fermentation**
+
      - 1/2 pack yeast Lalvin EC-1118
 
 ## Timeline

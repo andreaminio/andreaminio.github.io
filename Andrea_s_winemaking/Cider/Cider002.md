@@ -11,11 +11,15 @@ menubar_toc: true
 * Sparkling: **Yes**
 
 ## Ingredients
-* 2025.06.21 - First fermentation: 
+2025.06.21 - **First fermentation**
+
      - 5l Bravo Rauch happy day apple juice (clear)
      - 1/2 pack mangrove jack M02 yeast
      - 2.5 teaspoons (5ml) nutrients
- - 2025.08.23 - Bottling
+
+
+2025.08.23 - **Bottling**
+     
      - Added 45g/4.5l sugar for carbonation
      - Added erythritol (Eritritolo) for backsweetning to taste
 
