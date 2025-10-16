@@ -19,10 +19,14 @@ menubar_toc: true
 * Sour Mead
 
 ## Cider  (Apple based) >>[index](Cider/index.md)
+* - ❌ -
 * [Cider 002](Cider/Cider002.md) - 🟢 - Semi-sweet, Sparkling, 5.8% ABV
 * [Cider 003](Cider/Cider003.md) - 🟢 - Semi-sweet, Sparkling, 6% ABV
-* ⏳
-* ❌
+* 
+* [Cider 005 | Blueberry](Cider005.md) - 🟢 - Semi-sweet, Sparkling, 6.3% ABV
+
+* - ⏳ 
+* 
 
 ## Cyser (Honey + Apple) >>[index](Cyser/index.md)
 * 

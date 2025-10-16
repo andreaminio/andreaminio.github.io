@@ -4,12 +4,12 @@ menubar_toc: true
 
 # Juniper mead / Gin recipes
 
-## Juniper mead - Juniper berry ratio #1: 1 oz / gallon
+## Juniper mead - Juniper berry ratio #1: 1 oz (28.3 g) / gallon
 
 ## Juniper mead - Juniper berry ratio #2: 4 berries / 750cl
 
 ## Juniper mead - Infusion
-    - Infusion 4oz juniper fronds with berries/Gallon -> 5 lbs wildflower honey
+    - Infusion 4oz (113.4g) juniper fronds with berries/Gallon -> 5 lbs wildflower honey
     - 3 gallons juniper infusion
     - 4 g fermaid k
     - 1.5 g DAP
@@ -18,12 +18,12 @@ menubar_toc: true
 ## Juniper mead - Skyrim Juniper Mead
     - 3 lbs wildflower honey
     - 1 gallon spring water
-    - 4 tablespoons crushed dried juniper berries
+    - 4 tablespoons (20~22g) crushed dried juniper berries
     - 2 tablespoons dried hibiscus flowers
     - 4 teaspoons dried yarrow
     - .095 starting gravity (12.5% potential ABV)
 
-## Juniper mead - Juniper, Rosemary, and Bay eaf
+## Juniper mead - Fresh juniper, Rosemary, and Bay leaf
     - For 5gls
     - 8lbs honey
     - 1/2 cup fresh juniper berries
@@ -33,9 +33,9 @@ menubar_toc: true
     - Belgian Ale Wyeast (having faith in opinions posted here recently)
 
 ## Juniper mead - Step feeding
-    - 2 Tblsp at pitch, 
-    - 1-2 Tblsp more at first rack and then 
-    - 1-2 Tblsp more crushed maybe a week before bottling.
+    - 2 Tblsp (10g) at pitch, 
+    - 1-2 Tblsp (5~10g) more at first rack and then 
+    - 1-2 Tblsp (5~10g) more crushed maybe a week before bottling.
 
 ## Juniper mead - Black Lagoon Hydromel
     - 12 dried juniper berries
@@ -49,8 +49,8 @@ menubar_toc: true
 
 ## Juniper mead - Orange peel
     - 3.3 lbs honey
-    - 1.5 oz. dried hibiscus petals
-    - 1 oz. juniper berries
+    - 1.5 oz. (42.5g)  dried hibiscus petals
+    - 1 oz. (28.3g) juniper berries
     - water to 1 gallon
     - Bread yeast (boiled to make yeast nutrient)
     - Lalvin EC-1118 (Wine yeast, for fermenting)
@@ -67,7 +67,7 @@ menubar_toc: true
 
 ## GIN - RECIPE #1
     - 375 ml of good-quality vodka (about 12.5 oz or 1.5 cups)*
-    - 2 tbsp juniper berries*
+    - 2 tbsp (10g) juniper berries 
     - 1 cardamom seed
     - 1 peppercorn
     - ½ tsp coriander seed
@@ -76,7 +76,7 @@ menubar_toc: true
     - 1 small, dried orange peel*
 
 ## GIN - RECIPE #2
-    - 1 tbsp juniper berries
+    - 1 tbsp (10g) juniper berries
     - ½ tbsp of loose chamomile
     - 1 tbsp of rosehips
     - ½ Persian cucumber, cut into slices*

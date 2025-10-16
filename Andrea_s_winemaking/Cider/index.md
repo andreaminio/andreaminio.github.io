@@ -8,7 +8,7 @@ menubar_toc: true
 * [Cider002](Cider002.md)
 * [Cider003](Cider003.md)
 * [[Cider004]]
-* [[Cider005]]
+* [Cider005](Cider005.md) | Blueberry - Semi-sweet, Sparkling, 6.3% ABV
 
 ## Making
 * [[Cider006]]
