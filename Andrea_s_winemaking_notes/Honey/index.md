@@ -5,12 +5,18 @@ menubar_toc: true
 # Honey
 
 ## Literature on different kinds of honey in mead
+### Conapi guide
+* [Conapi-Guida-per-conoscere-il-miele](Files/Conapi-Guida-per-conoscere-il-miele.pdf) ![Conapi-Guida-per-conoscere-il-miele](Files/Conapi-Guida-per-conoscere-il-miele.pdf)
+
 ### Good
 - **Alfalfa (erba medica, _Medicago sativa_)** 
     - high dextrose, low ash, low nitrogen.
 
 - **Blackberry**:
     - High pH (5.0), high Maltose (11.3%), high ash, high nitrogen.
+
+ - **Black Locust**: 
+    - High maltose, very low acid (15.54), very low ash (.052%), low nitrogen.
 
 - **Blueberry**
     - like a light version of orange blossom
@@ -36,7 +42,10 @@ menubar_toc: true
 - **Chicory**
     - mentholly an refreshing in a good way. Perfect palate cleanser between courses.
 
-- **Christmas Berry Honey**
+- **Chinquapin**: 
+    - Low moisture, low dextrose, high maltose, very high other sugars, very high ash (.761%).
+
+- **Christmas Berry**
     - Flavor profile and characteristics
         - Harvested from Hawaiian Christmas Berry (Wilelaiki) blossoms, this honey is bright golden yellow and slower to crystallize. Christmas Berry Honey has a nice fruit flavor and an herbal, slightly spiced aftertaste. Some have described it as having a butterscotch-like flavor.
     - Tips for using Christmas Berry Honey for Mead Making:
@@ -45,8 +54,42 @@ menubar_toc: true
 * **Citrus**
     * By analysis of the numbers, citrus honey appears to be an excellent candidate for brewing. While the dextrose level is a bit high, moisture is low, pH is in the middle, and ash content is very low. The low nitrogen content might dictate higher than normal yeast nutrient use. Citrus honey of any blend is marketed as "Orange Blossom," and is light in flavor and very aromatic. Micah Millspaw has made some excellent mead from orange blossom honey.
 
+* **Clover** 
+    * The values shown here are for sweet clover honey, and the U.S.D.A. has several dozen specimens profiled in their bulletin. Moisture levels tend to run on the high side, making clover honey a candidate for quick use. As with most of the lighter flavored honeys, ash content is low, as is total acid content, which would contribute to a softer flavor profile. It looks like a great case honey for flavored meads.
+
+- **Gallberry**
+    - Low acid, higher pH (4.2).
+
+- **Fireweed**
+    - awesome stuff. Very floral
+    - [Epilobium angustifolium - Wikipedia](https://it.wikipedia.org/wiki/Epilobium_angustifolium)
+    - Other than slightly lower than normal total acids and ash, fireweed honey looks like a very average honey. Fireweed honey did not express a dramatic nose or flavor, and doesn't seem to create much of a stir as a mead.
+
+- **Heather** - 
+    - another way too pricey but awesome one. Very floral and rich.
+
+* **Hawaiian Flower**
+    * Flavor profile and characteristics:
+        - Hawaiian wildflower honey, sourced from diverse flowers across Hawaii, offers a complex, exotic flavor profile. It often includes notes of tropical fruit, hibiscus, plumeria and even subtle earthiness, perfect for creating unique, aromatic meads.
+    * Tips for using Hawaiian Wildflower Honey for Mead Making:
+        - Take inspiration from the source and make a Hawaiian mead with hibiscus flowers, tropical fruit or even ginger.
+
+- **Japanese Bamboo**
+    - High Maltose, higher pH, low to medium ash, high nitrogen.
+
+* **Mango Blossom** 
+    * Flavor profile and characteristics:
+        - Mango blossom honey features a tropical, fruity profile with a smooth, mellow sweetness.
+        - Because it’s harvested from the nectar of blooming mango trees, this honey possesses tropical fruit and floral notes.
+    - Tips for using Mango Blossom Honey for Mead Making:
+        - This honey is excellent for crafting exotic, tropical-inspired meads, often enjoyed semi-sweet or sweet.
+        - Try making a mango melomel (fruited mead), with diced mango chunks!
+
 - **Meadowfoam** 
     - can you say toasted marshmallow?
+
+* **Mesquite**
+    * High pH is due to lack of total acid, not high ash buffering. This honey should ferment well with a healthy dose of nitrogen and no pH adjustment. Low moisture and acid content make for higher sugar content by weight. Low ash should mean light color and minimal offensive odor or flavor. Might require some acid before bottling for balance, especially in sweeter meads.
 
 - **Orange blossom** 
     - perfect balance of flavour and acidity straight up. This is the one I recommend people start with.
@@ -56,28 +99,98 @@ menubar_toc: true
         - Orange Blossom Honey is perfect for making refreshing, aromatic meads, especially when aiming for lighter, fruit-forward beverages.
         - This honey style is excellent for making melomels (fruited meads), because the citrusy character adds even more fruit character.
 
+- **Peppermint**
+    - High pH (4.7), high acid, very high ash (.473)
+
 - **Poison oak or ivy**
     - buttery an awesome. No you won't react to it.
 
+- **Prune**
+    - High moisture, high maltose, pH 6.0!, acids very low (11.80), ash .694%
+ 
 - **Pumpkin blossom -** 
     - all day every day. Oh so good and rich. Oh wait nvm this is horrible honey never buy this just let me know where you find it so I can umm destroy all the stock.
 
+* **Sage**
+    * Another low ash, middle-of-the-road sugar blend honey. Known to be light in flavor with a delicate and inviting aroma. One to be explored.
+
 - **Snowberry**
     - neat residual acidity a great mead to age.
+
+* **Tulip Poplar**
+    * Tulip Poplar honey is a very distinctive honey in aroma, and although one of the darker honeys, has a mild and appealing flavor. Tulip poplar honey has a high maltose content, lending to its complexity, and, like other dark honeys, is high in ash content. Tulip poplar honey is widely available from the north to the south throughout the midwest.
 
 - **Tupelo** 
     - buttery rich and oh so pricey but worth every cent.
     - White tupelo is the primary source for the light unblended honey sold as tupelo honey. It has a very high levulose content, low dextrose and high maltose count, which make it attractive to brewers. Low ash, high Acids and moderate pH
 
+- **Vetch, hairy**
+    - Average sugar values, low pH, low total acids, very low ash, low nitrogen.
 
 
 
 
 
-- **Miele di acacia**
+
+
+
+- **Acacia**
     - <a href="Pictures/d53d864bc0b2cafb14cc18ac3a1de595_MD5.jpg"><img src="Pictures/d53d864bc0b2cafb14cc18ac3a1de595_MD5.jpg" width="150" /></a>
     - Il miele di acacia è un miele monofloreale ed è il miele più diffuso e apprezzato in Italia.
     - Il miele di acacia è un miele pallido, liquido, quasi simile al vetro. È ottenuto dalle api che si nutrono di fiori di acacia. Il miele di acacia tende a non cristallizzare perché ricco di fruttosio e ha un gusto molto gradevole in grado di soddisfare un po’ tutti i palati.
+    - ha proprietà lassative, antinfiammatorie per la gola, disintossicanti per il fegato e tonificanti in genere. Inoltre aiuta a ridurre l’acidità di stomaco. 
+
+- **Agrumi** 
+    - colore chiarissimo e un sapore floreale-fruttato, un po’ acidulo.
+    - ha proprietà antispastiche, sedative e cicatrizzanti per le ulcere, 
+
+- **Miele balsamico**: 
+    - contiene oli essenziali di pino, menta, timo e anche la proponi e ha un effetto balsamico che dona immediato sollievo a chi ha problemi alle vie respiratorie a causa di influenza o raffreddore.
+
+- **Castagno**
+    - <a href="Pictures/3e097967ff414dda1c3f8a3487324718_MD5.jpg"><img src="Pictures/3e097967ff414dda1c3f8a3487324718_MD5.jpg"  width="150" /></a>
+    - Il miele di castagno si produce a partire dal nettare della pianta omonima, molto diffusa in tutto il nostro Appennino. È tra i mieli con un colore scuro, marrone molto intenso.
+    - Non fatevi ingannare dal colore scuro del miele: più un miele è scuro più la sua azione antiossidante è considerevole!
+    - Il profumo del miele di castagno è più incisivo rispetto a quello degli altri mieli, leggermente acre e pungente. Anche il gusto rispecchia queste sue peculiarità: amarognolo e deciso. La dolcezza, quindi, non è proprio il suo tratto distintivo: per questo motivo può non essere indicato come dolcificante ma è ottimo invece per accompagnare i formaggi! Anche in questo caso, vista la maggior presenza di fruttosio rispetto al glucosio, difficilmente cristallizza.
+    - agevola la circolazione sanguigna oltre ad avere azione astringente, antispasmodica e disinfettante delle vie urinarie
+
+- **Colza**
+    - <a href="Pictures/47057c76d0961e71cbd7de439d9d3d6f_MD5.jpg"><img src="Pictures/47057c76d0961e71cbd7de439d9d3d6f_MD5.jpg"  width="150" /></a>
+    - La colza è una pianta i cui fiori sono di un di colore giallo molto intenso. È molto precoce perché fiorisce da aprile a giugno. I fiori sono particolarmente ricchi di nettare e polline e questo permette di ottenere una grande quantità di miele.
+    - Il miele di colza è un miele molto dolce dal colore chiaro con sfumature che vanno dal giallo, al beige e al bianco. Proprio per la sua dolcezza è tra i tipi di miele preferito dai bambini!
+    - È anche leggermente cremoso e tende a cristallizzarsi più velocemente di quasi tutti gli altri tipi di miele, diventando solido e duro. In questo caso, non vi preoccupate, è sufficiente mescolare energicamente il miele per ridargli una consistenza cremosa.
+
+- **Erba medica (Alfalfa)**
+    - <a href="Pictures/25f9d7c5788d48c2683a7952c93181a7_MD5.jpg"><img src="Pictures/25f9d7c5788d48c2683a7952c93181a7_MD5.jpg" width="150" /></a>
+    - Il miele di [Erba medica](https://www.lerboristeria.com/erbario/alfalfa.php) è prodotto dalle api che suggono il nettare dai fiori della pianta Medicago sativa (Alfalfa), una Leguminosa che possiede una completezza nutrizionale dovuta alle sue lunghissime radici, che penetrano nel suolo alla ricerca di acqua e dei minerali situati profondamente nel terreno.  
+    - La produzione del miele che da essa si ricava dipende molto dalle condizioni ambientali di calore e umidità, che ne possono condizionare grandemente il raccolto, il quale può essere perciò più o meno abbondante a seconda dell'andamento della stagione, poiché i fattori climatici avversi ne influenzano negativamente la produzione.  
+    - Il miele di Erba medica si presenta di colore ambrato chiaro quando è liquido, beige chiaro o nocciola quando cristallizza, dopo pochi mesi dal raccolto. E' un miele dal sapore dolce delicato, vellutato, con note vegetali ed erbacee di piante officinali; sprigiona sentori di erba tagliata.  
+    - Gli sono attribuite proprietà [antispasmodiche](https://www.lerboristeria.com/glossario/antispasmodico.php), [diuretiche](https://www.lerboristeria.com/glossario/diuretico.php) e purificanti, tonificanti, energetiche, utili anche per gli sportivi. E' ricco di [antiossidanti](https://www.lerboristeria.com/glossario/antiossidante.php), [vitamine](https://www.lerboristeria.com/articoli/2006_03.php), [minerali](https://www.lerboristeria.com/articoli/2006_06.php), è lenitivo per la tosse, calmante, [espettorante](https://www.lerboristeria.com/glossario/espettorante.php) e fluidificante catarrale.  
+    - Il miele in purezza di Erba medica si trova generalmente allo stato liquido solo poco tempo dopo il raccolto, solitamente in Settembre-Ottobre; è preferibile consumare quello biologico italiano, che garantisce una elevata qualità. Trovare nei mesi successivi un miele di Erba medica ancora allo stato liquido può significare che non sia monoflorale, o che sia stato sottoposto a trattamenti termici, assolutamente sconsigliati.  
+    - Il suo uso è piuttosto versatile: come dolcificante per caffè, [tè](https://www.lerboristeria.com/erbario/theverde.php) e tisane, dei quali non altera il sapore; con lo yogurt, in abbinamento a formaggi stagionati, o freschi di capra. Ottimo per la preparazione del torrone.  
+
+- **Erica**: 
+    - cristallizza velocemente e ha un aspetto denso, per un colore che va sull’arancione. Il sapore è tipicamente caramellato.
+    - ha proprietà antireumatiche e diuretiche oltre a disinfettare le vie urinarie; 
+
+- **Eucalipto**:
+    - Ha un colore ambrato, un profumo pungente e un sapore maltato e molto aromatico.
+    - proprietà antiasmatiche, espettoranti e antibiotiche è buono per alleviare raffreddore e tosse. 
+    - 
+- - **Girasole**
+    - Il miele di Girasole ha un bel colore giallo vivace. Al palato è aromatico ma anche fresco. Il suo aroma è delicato e ricorda quello della cera. Non è molto dolce e, come per il miele di castagno, si presta particolarmente in abbinamento con i formaggi.
+
+- **Lavanda**
+    - <a href="Pictures/39b8fee1a09aa8a78117e59694d00337_MD5.jpg"><img src="Pictures/39b8fee1a09aa8a78117e59694d00337_MD5.jpg" width="150" /></a>
+    - Il miele di [Lavanda](https://www.lerboristeria.com/erbario/lavanda.php) è prodotto da diverse varietà di piante appartenenti al genere Lavandula, in particolare [Lavandula angustifolia](https://www.lerboristeria.com/articoli/2021_09_lavanda.php) o Lavanda vera, oltre a Lavandula latifolia o Lavandula spica (spigo), e Lavandino (un ibrido fra i due). La sua reperibilità è piuttosto rara perché la produzione necessita di grandi distese di piantagioni di questa pianta, come avviene soprattutto nella Provenza, in Francia.  
+    - In Italia il raro ed esclusivo miele monoflora di Lavanda è prodotto solamente in Sardegna, dalle api che visitano i particolari fiori della [Lavanda selvatica](https://www.lerboristeria.com/articoli/2005_12.php), o Lavandula stoechas, che cresce spontanea nelle radure assolate, nei pascoli cespugliati spesso associato ai Cisti, su terreni acidi dal livello del mare fino a 1000 metri di altitudine.  
+    - Il miele monoflorale di Lavandula angustifolia e Lavandula latifolia, quando si trova ancora allo stato liquido, ha colore giallo paglierino chiaro tendente al dorato, ma, poiché cristallizza piuttosto rapidamente, il colore vira verso il beige chiaro fino al bianco. Il gusto e la fragranza sono peculiari, intensi, con un deciso aroma floreale e fruttato.  
+    - Le caratteristiche organolettiche del miele monoflora di Lavandula stoechas, particolarmente pregiato, differiscono decisamente per il gusto particolarmente delicato, finemente aromatico, la leggera fragranza con lievi sentori floreali, e per il colore ambra-dorato.  
+    - Il miele ricavato dal Lavandino (l'ibrido sterile fra Lavandula angustifolia e L. latifolia) ha fragranza e gusto molto leggeri e meno intensi, talmente tenui che talora non si percepisce il sentore di miele di Lavanda. Inoltre, poiché è un ibrido sterile, non produce [polline](https://www.lerboristeria.com/articoli/2000_12.php), che invece è utile nelle altre due varietà a caratterizzarne la provenienza e la purezza.  
+    - Il miele di Lavanda ha in generale proprietà che richiamano le piante da cui è ricavato, quindi risulta rilassante e calmante del sistema nervoso centrale, rasserenante e [spasmolitico](https://www.lerboristeria.com/glossario/spasmolitico.php) per le tensioni sia fisiche che psichiche, contro l'[ansia](https://www.lerboristeria.com/articoli/2017_02_ansia_stress_insonnia_depressione.php) e l'[insonnia](https://www.lerboristeria.com/articoli/2009_11_fitoterapia_insonnia.php). Inoltre è balsamico e [antisettico](https://www.lerboristeria.com/glossario/antisettico.php) per le vie respiratorie, contro la tosse e la raucedine; antisettico delle vie uro-genitali; digestivo, [antispasmodico](https://www.lerboristeria.com/glossario/antispasmodico.php) e [colagogo](https://www.lerboristeria.com/glossario/colagogo.php)- [coleretico](https://www.lerboristeria.com/glossario/coleretico.php). E' un miele che, oltre agli zuccheri semplici come glucosio e fruttosio, è ricco di [minerali](https://www.lerboristeria.com/articoli/2006_06.php) fra cui [ferro](https://www.lerboristeria.com/articoli/2006_09.php), consigliato per bambini, anziani, sportivi, persone [anemiche](https://www.lerboristeria.com/glossario/anemia.php).  
+    - E' adatto come dolcificante per colazione, per spuntini energetici prima dell'attività sportiva, dello studio o del lavoro particolarmente impegnativi.  
+    - In cucina si abbina particolarmente bene con il Pecorino sardo stagionato, o altri formaggi dal sapore deciso, e con la frutta.  
+    - Anticamente si applicava sulle ferite come [cicatrizzante](https://www.lerboristeria.com/glossario/cicatrizzante.php); può essere utile per lenire punture di insetti. Come tutti i mieli, non va sottoposto al calore, che ne altererebbe le qualità organolettiche e le proprietà officinali.  
 
 - **Miele di Millefiori**
     - Come si può facilmente intuire, si tratta di un miele multifloreale, prodotto da diverse tipologie floreali (principalmente acacia, tiglio e castagno).
@@ -85,39 +198,40 @@ menubar_toc: true
     - Miele millefiori chiaro: si produce a partire da inizio primavera fino a giugno/luglio, ha un colore chiaro e trasparente e un sapore più delicato e dolce rispetto alle altre varianti, ma meno intenso. Dopo alcuni mesi dal raccolto il prodotto tende a cristallizzare.
     - Miele millefiori scuro: si produce sul finire dell’estate, ha una colorazione scura o ambrata. Il gusto è più deciso rispetto alla variante precedente con un retrogusto leggermente amarognolo. Ricorda molto il miele di castagno. La consistenza è cremosa e la sua cristallizzazione è più lenta.
 
-- **Miele di castagno**
-    - <a href="Pictures/3e097967ff414dda1c3f8a3487324718_MD5.jpg"><img src="Pictures/3e097967ff414dda1c3f8a3487324718_MD5.jpg"  width="150" /></a>
-    - Il miele di castagno si produce a partire dal nettare della pianta omonima, molto diffusa in tutto il nostro Appennino. È tra i mieli con un colore scuro, marrone molto intenso.
-    - Non fatevi ingannare dal colore scuro del miele: più un miele è scuro più la sua azione antiossidante è considerevole!
-    - Il profumo del miele di castagno è più incisivo rispetto a quello degli altri mieli, leggermente acre e pungente. Anche il gusto rispecchia queste sue peculiarità: amarognolo e deciso. La dolcezza, quindi, non è proprio il suo tratto distintivo: per questo motivo può non essere indicato come dolcificante ma è ottimo invece per accompagnare i formaggi! Anche in questo caso, vista la maggior presenza di fruttosio rispetto al glucosio, difficilmente cristallizza.
-
-- **Miele di colza**
-    - <a href="Pictures/47057c76d0961e71cbd7de439d9d3d6f_MD5.jpg"><img src="Pictures/47057c76d0961e71cbd7de439d9d3d6f_MD5.jpg"  width="150" /></a>
-    - La colza è una pianta i cui fiori sono di un di colore giallo molto intenso. È molto precoce perché fiorisce da aprile a giugno. I fiori sono particolarmente ricchi di nettare e polline e questo permette di ottenere una grande quantità di miele.
-    - Il miele di colza è un miele molto dolce dal colore chiaro con sfumature che vanno dal giallo, al beige e al bianco. Proprio per la sua dolcezza è tra i tipi di miele preferito dai bambini!
-    - È anche leggermente cremoso e tende a cristallizzarsi più velocemente di quasi tutti gli altri tipi di miele, diventando solido e duro. In questo caso, non vi preoccupate, è sufficiente mescolare energicamente il miele per ridargli una consistenza cremosa.
-
-- **Miele di tiglio**
-    - <a href="Pictures/14b51514f5c66f0d8f5144c94e88ea7f_MD5.jpg"><img src="Pictures/14b51514f5c66f0d8f5144c94e88ea7f_MD5.jpg" width="150" /></a>
-    - Il miele di tiglio è tra i più delicati in commercio e ha un colore dorato chiaro. Il suo sapore è dolce e con un aroma che rimanda ai fiori di tiglio. La sua dolcezza e la sua fluidità lo rendono molto adatto ad essere utilizzato come sostituto dello zucchero tradizionale in vari tipi di bevande.
-    - Il suo profumo è meno intenso rispetto ad altri tipi di miele, ma il suo sapore e il suo aroma delicato lo rendono particolarmente sofisticato.
-
-- **Miele di Stachys**
+- **Stachys**
     - <a href="Pictures/efa4ef32c647d3a3d605cc021ca6fd13_MD5.jpg"><img src="Pictures/efa4ef32c647d3a3d605cc021ca6fd13_MD5.jpg"  width="150" /></a>
     - La Stachys è un'erba officinale che cresce sulle stoppie di grano (residuo degli steli) dopo la trebbiatura.
     - Il miele che si ottiene da quest’erba è estremamente elegante e molto raro, perché il processo per ottenerlo è complesso. Ha una consistenza molto cremosa, quasi burrosa a seguito della cristallizzazione che è quasi assente. Ha un colore bianco latte, gusto dolce ma non troppo, con note che rimandano alle mandorle e al fieno.
     - Una curiosità: è uno dei mieli che meglio si presta a caramellare le carni rosse in cucina! 
 
-- **Miele di Tarassaco**
+- **Sulla**: 
+    - dal sapore “vegetale”, dall’odore molto delicato e dal colore chiaro (quasi bianco quando è cristallizzato) questo miele ha proprietà tonificanti, energetiche e diuretiche. Buono per purificare il fegato e come regolatore intestinale, ha una fragranza che sa di fiori e contiene buone percentuali di vitamine A, B e C.
+
+- **Tarassaco**
     - <a href="Pictures/c28a1a2f47584af3e9b157a7945793d7_MD5.jpg"><img src="Pictures/c28a1a2f47584af3e9b157a7945793d7_MD5.jpg"  width="150" /></a>
     - Il tarassaco è una pianta erbacea che cresce spontaneamente in zone pianeggianti e montuose. Il miele di tarassaco ha un colore giallo intenso e con un sentore pungente, intenso, persistente, che ricorda l’ammoniaca. Il sapore, tuttavia, è delicato e balsamico, con un retrogusto di camomilla.
+    - 
+- **Tiglio**: 
+    - <a href="Pictures/14b51514f5c66f0d8f5144c94e88ea7f_MD5.jpg"><img src="Pictures/14b51514f5c66f0d8f5144c94e88ea7f_MD5.jpg" width="150" /></a>
+    - Il miele di tiglio è tra i più delicati in commercio e ha un colore dorato chiaro. Il suo sapore è dolce e con un aroma che rimanda ai fiori di tiglio. La sua dolcezza e la sua fluidità lo rendono molto adatto ad essere utilizzato come sostituto dello zucchero tradizionale in vari tipi di bevande.
+    - Il suo profumo è meno intenso rispetto ad altri tipi di miele, ma il suo sapore e il suo aroma delicato lo rendono particolarmente sofisticato.
+    - dalle proprietà calmanti, diuretiche e digestive funge anche da sedativo per i dolori mestruali e può essere di aiuto contro l’insonnia. Buono anche per tisane espettoranti, è di colore chiaro o anche scuro (dipende dal contenuto in melata), ha un odore balsamico e un sapore dal retrogusto amaro.
 
-- **Miele di Girasole**
-    - Il miele di Girasole ha un bel colore giallo vivace. Al palato è aromatico ma anche fresco. Il suo aroma è delicato e ricorda quello della cera. Non è molto dolce e, come per il miele di castagno, si presta particolarmente in abbinamento con i formaggi.
+- **Timo**: 
+    - <a href="Pictures/12ad8a1504a493e40592b2272cee8905_MD5.jpg"><img src="Pictures/12ad8a1504a493e40592b2272cee8905_MD5.jpg" width="150" /></a>
+    - anche questo tipo di miele ha proprietà calmanti, e poi antisettiche e febbrifughe oltre a essere consigliato nei casi di debolezza di reni. Dalla cristallizzazione veloce, il colore è ambrato, più scuro quanto più diventa denso. Ha un aroma decisamente forte, di erbe aromatiche, che a volte può sembrare quasi chimico, cosa che si riflette nel caratteristico sapore.
+     - Il miele di [Timo](https://www.lerboristeria.com/erbario/timo.php) è prodotto dai fiori di alcune specie del genere Thymus, della famiglia delle Labiatae, in particolare Thymus serpillus, Thymus vulgaris, oltre all'ormai raro Thymus capitatus (sinonimo di Thymbra capitata, o Timo arbustivo), piccolo arbusto che in Italia cresce solo nelle zone più aride delle regioni del sud e delle isole.  
+     - Il miele di Timo allo stato liquido si presenta in varie tonalità dell'ambra, da chiare a più scure, ma vira verso il beige fino al nocciola quando cristallizza spontaneamente con cristalli irregolari.  
+     - Ha un sapore intenso, con retrogusto leggermente salato, di [erbe aromatiche](https://www.lerboristeria.com/articoli/2013_04_spezie.php), di timolo, di [Pepe](https://www.lerboristeria.com/erbario/pepenero.php), di datteri; il profumo è altrettanto intenso con aromi floreali, speziati, di fiori secchi, di [chiodi di Garofano](https://www.lerboristeria.com/erbario/chiodi_garofano.php), di marsala, di vin brulè.  
+     - Similmente alle piante da cui è ricavato, al miele di Timo si attribuiscono proprietà [antisettiche](https://www.lerboristeria.com/glossario/antisettico.php), balsamiche per la tosse, febbrifughe, stimolanti ed energetiche. In cucina si abbina a formaggi stagionati e piccanti, dal gusto deciso.
+
+
 
 - **Miele di Melata**
     - Come abbiamo già visto, il miele di melata è un miele che anziché essere prodotto col nettare dei fiori, viene ricavato dalla secrezione di altri insetti, ovvero una sostanza che si trova sulle foglie o sulla corteccia degli alberi, la melata appunto.
     - È uno dei mieli più rari e salutari in commercio. In confronto al tradizionale miele di nettare, quello di melata è meno dolce, il sapore ricorda quello del caramello, con retrogusto leggermente amarognolo. Il colore è molto scuro, quasi nero, mentre la consistenza è compatta come quella del miele di nettare, ma non tende a cristallizzarsi.
+    - **Miele di melata d’abete**: ha proprietà antisettiche per i polmoni e le vie aeree, contrasta i mali di stagione come l’influenza, le faringiti, le bronchiti ma anche l’asma. Ha un sapore balsamico e un odore di zucchero caramellato o legno bruciato e un colore scuro.
+
 
 ---
 
@@ -126,141 +240,19 @@ menubar_toc: true
 ---
 
 
-- Fireweed - awesome stuff. Very floral
-    - [Epilobium angustifolium - Wikipedia](https://it.wikipedia.org/wiki/Epilobium_angustifolium)
-    - Other than slightly lower than normal total acids and ash, fireweed honey looks like a very average honey. Fireweed honey did not express a dramatic nose or flavor, and doesn't seem to create much of a stir as a mead.
-
-- Heather - another way too pricey but awesome one. Very floral and rich.
-
-
-* Mango Blossom Honey
-    * Flavor profile and characteristics:
-        - Mango blossom honey features a tropical, fruity profile with a smooth, mellow sweetness.
-        - Because it’s harvested from the nectar of blooming mango trees, this honey possesses tropical fruit and floral notes.
-    - Tips for using Mango Blossom Honey for Mead Making:
-        - This honey is excellent for crafting exotic, tropical-inspired meads, often enjoyed semi-sweet or sweet.
-        - Try making a mango melomel (fruited mead), with diced mango chunks!
-
-* Hawaiian Flower Honey
-    * Flavor profile and characteristics:
-        - Hawaiian wildflower honey, sourced from diverse flowers across Hawaii, offers a complex, exotic flavor profile. It often includes notes of tropical fruit, hibiscus, plumeria and even subtle earthiness, perfect for creating unique, aromatic meads.
-    * Tips for using Hawaiian Wildflower Honey for Mead Making:
-        - Take inspiration from the source and make a Hawaiian mead with hibiscus flowers, tropical fruit or even ginger.
-
-- Japanese Bamboo: 
-    - High Maltose, higher pH, low to medium ash, high nitrogen.
-
-
-
-- Chinquapin: 
-    - Low moisture, low dextrose, high maltose, very high other sugars, very high ash (.761%).
-
-- Gallberry: 
-    - Low acid, higher pH (4.2).
-
-- Black Locust: 
-    - High maltose, very low acid (15.54), very low ash (.052%), low nitrogen.
-
-- Peppermint: 
-    - High pH (4.7), high acid, very high ash (.473)
-
-- Prune: 
-    - High moisture, high maltose, pH 6.0!, acids very low (11.80), ash .694%
-
-- Vetch, hairy: 
-    - Average sugar values, low pH, low total acids, very low ash, low nitrogen.
-
-* _Clover_: 
-    * The values shown here are for sweet clover honey, and the U.S.D.A. has several dozen specimens profiled in their bulletin. Moisture levels tend to run on the high side, making clover honey a candidate for quick use. As with most of the lighter flavored honeys, ash content is low, as is total acid content, which would contribute to a softer flavor profile. It looks like a great case honey for flavored meads.
-
-* _Mesquite_: 
-    * High pH is due to lack of total acid, not high ash buffering. This honey should ferment well with a healthy dose of nitrogen and no pH adjustment. Low moisture and acid content make for higher sugar content by weight. Low ash should mean light color and minimal offensive odor or flavor. Might require some acid before bottling for balance, especially in sweeter meads.
-
-* _Sage_: 
-    * Another low ash, middle-of-the-road sugar blend honey. Known to be light in flavor with a delicate and inviting aroma. One to be explored.
-
-* _Tulip Poplar_: 
-    * Tulip Poplar honey is a very distinctive honey in aroma, and although one of the darker honeys, has a mild and appealing flavor. Tulip poplar honey has a high maltose content, lending to its complexity, and, like other dark honeys, is high in ash content. Tulip poplar honey is widely available from the north to the south throughout the midwest.
 
 
 
 
-**Miele d’acacia**: ha proprietà lassative, antinfiammatorie per la gola, disintossicanti per il fegato e tonificanti in genere. Inoltre aiuta a ridurre l’acidità di stomaco. Ha un colore molto chiaro, con fragranze floreali, e un sapore vanigliato.
 
-**Miele di agrumi:** ha proprietà antispastiche, sedative e cicatrizzanti per le ulcere, un colore chiarissimo e un sapore floreale-fruttato, un po’ acidulo.
+    
 
-**Miele di castagno**: agevola la circolazione sanguigna oltre ad avere azione astringente, antispasmodica e disinfettante delle vie urinarie; ha un colore piuttosto scuro e un sapore deciso dal retrogusto amaro.
-
-**Miele di eucalipto**: dalle proprietà antiasmatiche, espettoranti e antibiotiche è buono per alleviare raffreddore e tosse. Ha un colore ambrato, un profumo pungente e un sapore maltato e molto aromatico.
-
-**Miele millefiori**: tra i tipi di miele più noti e diffusi, il millefiori ha mille proprietà: ottimo un po’ per tutti, dai giovani in crescita agli anziani agli sportivi, rinvigorisce e decongestiona, oltre ad avere proprietà calmanti della tosse e azione cardiotropa. In più disintossica il fegato, regola l’attività dell’intestino, è antianemico e diuretico. Il colore può essere più o meno scuro, dipende della stagione e dai fiori più presenti nel territorio, fattore che ne influenza, caratterizzandoli, anche l’odore e il sapore.
-
-**Miele di sulla**: dal sapore “vegetale”, dall’odore molto delicato e dal colore chiaro (quasi bianco quando è cristallizzato) questo miele ha proprietà tonificanti, energetiche e diuretiche. Buono per purificare il fegato e come regolatore intestinale, ha una fragranza che sa di fiori e contiene buone percentuali di vitamine A, B e C.
-
-**Miele balsamico**: contiene oli essenziali di pino, menta, timo e anche la proponi e ha un effetto balsamico che dona immediato sollievo a chi ha problemi alle vie respiratorie a causa di influenza o raffreddore.
-
-### MIELI MENO COMUNI
-
-**Miele di tiglio**: dalle proprietà calmanti, diuretiche e digestive funge anche da sedativo per i dolori mestruali e può essere di aiuto contro l’insonnia. Buono anche per tisane espettoranti, è di colore chiaro o anche scuro (dipende dal contenuto in melata), ha un odore balsamico e un sapore dal retrogusto amaro.
-
-**Miele di timo**: anche questo tipo di miele ha proprietà calmanti, e poi antisettiche e febbrifughe oltre a essere consigliato nei casi di debolezza di reni. Dalla cristallizzazione veloce, il colore è ambrato, più scuro quanto più diventa denso. Ha un aroma decisamente forte, di erbe aromatiche, che a volte può sembrare quasi chimico, cosa che si riflette nel caratteristico sapore.
-
-**Miele di melata d’abete**: ha proprietà antisettiche per i polmoni e le vie aeree, contrasta i mali di stagione come l’influenza, le faringiti, le bronchiti ma anche l’asma. Ha un sapore balsamico e un odore di zucchero caramellato o legno bruciato e un colore scuro.
-
-**Miele di erica**: ha proprietà antireumatiche e diuretiche oltre a disinfettare le vie urinarie; cristallizza velocemente e ha un aspetto denso, per un colore che va sull’arancione. Il sapore è tipicamente caramellato.
-
-
-
-## Miele di Erba medica (Alfalfa)
+- **Rosmarino**
 
   
   
 
-![Erba medica (Alfalfa](25f9d7c5788d48c2683a7952c93181a7_MD5.jpg "Erba medica (Alfalfa)")
-
-Erba medica (Alfalfa)
-
-Il miele di [Erba medica](https://www.lerboristeria.com/erbario/alfalfa.php) è prodotto dalle api che suggono il nettare dai fiori della pianta Medicago sativa (Alfalfa), una Leguminosa che possiede una completezza nutrizionale dovuta alle sue lunghissime radici, che penetrano nel suolo alla ricerca di acqua e dei minerali situati profondamente nel terreno.  
-La produzione del miele che da essa si ricava dipende molto dalle condizioni ambientali di calore e umidità, che ne possono condizionare grandemente il raccolto, il quale può essere perciò più o meno abbondante a seconda dell'andamento della stagione, poiché i fattori climatici avversi ne influenzano negativamente la produzione.  
-  
-Il miele di Erba medica si presenta di colore ambrato chiaro quando è liquido, beige chiaro o nocciola quando cristallizza, dopo pochi mesi dal raccolto. E' un miele dal sapore dolce delicato, vellutato, con note vegetali ed erbacee di piante officinali; sprigiona sentori di erba tagliata.  
-Gli sono attribuite proprietà [antispasmodiche](https://www.lerboristeria.com/glossario/antispasmodico.php), [diuretiche](https://www.lerboristeria.com/glossario/diuretico.php) e purificanti, tonificanti, energetiche, utili anche per gli sportivi. E' ricco di [antiossidanti](https://www.lerboristeria.com/glossario/antiossidante.php), [vitamine](https://www.lerboristeria.com/articoli/2006_03.php), [minerali](https://www.lerboristeria.com/articoli/2006_06.php), è lenitivo per la tosse, calmante, [espettorante](https://www.lerboristeria.com/glossario/espettorante.php) e fluidificante catarrale.  
-  
-Il miele in purezza di Erba medica si trova generalmente allo stato liquido solo poco tempo dopo il raccolto, solitamente in Settembre-Ottobre; è preferibile consumare quello biologico italiano, che garantisce una elevata qualità. Trovare nei mesi successivi un miele di Erba medica ancora allo stato liquido può significare che non sia monoflorale, o che sia stato sottoposto a trattamenti termici, assolutamente sconsigliati.  
-Il suo uso è piuttosto versatile: come dolcificante per caffè, [tè](https://www.lerboristeria.com/erbario/theverde.php) e tisane, dei quali non altera il sapore; con lo yogurt, in abbinamento a formaggi stagionati, o freschi di capra. Ottimo per la preparazione del torrone.  
-  
-
-## Miele di Lavanda
-
-  
-  
-
-![Lavanda](39b8fee1a09aa8a78117e59694d00337_MD5.jpg "Lavanda")
-
-Lavanda
-
-Il miele di [Lavanda](https://www.lerboristeria.com/erbario/lavanda.php) è prodotto da diverse varietà di piante appartenenti al genere Lavandula, in particolare [Lavandula angustifolia](https://www.lerboristeria.com/articoli/2021_09_lavanda.php) o Lavanda vera, oltre a Lavandula latifolia o Lavandula spica (spigo), e Lavandino (un ibrido fra i due). La sua reperibilità è piuttosto rara perché la produzione necessita di grandi distese di piantagioni di questa pianta, come avviene soprattutto nella Provenza, in Francia.  
-  
-In Italia il raro ed esclusivo miele monoflora di Lavanda è prodotto solamente in Sardegna, dalle api che visitano i particolari fiori della [Lavanda selvatica](https://www.lerboristeria.com/articoli/2005_12.php), o Lavandula stoechas, che cresce spontanea nelle radure assolate, nei pascoli cespugliati spesso associato ai Cisti, su terreni acidi dal livello del mare fino a 1000 metri di altitudine.  
-  
-Il miele monoflorale di Lavandula angustifolia e Lavandula latifolia, quando si trova ancora allo stato liquido, ha colore giallo paglierino chiaro tendente al dorato, ma, poiché cristallizza piuttosto rapidamente, il colore vira verso il beige chiaro fino al bianco. Il gusto e la fragranza sono peculiari, intensi, con un deciso aroma floreale e fruttato.  
-  
-Le caratteristiche organolettiche del miele monoflora di Lavandula stoechas, particolarmente pregiato, differiscono decisamente per il gusto particolarmente delicato, finemente aromatico, la leggera fragranza con lievi sentori floreali, e per il colore ambra-dorato.  
-Il miele ricavato dal Lavandino (l'ibrido sterile fra Lavandula angustifolia e L. latifolia) ha fragranza e gusto molto leggeri e meno intensi, talmente tenui che talora non si percepisce il sentore di miele di Lavanda. Inoltre, poiché è un ibrido sterile, non produce [polline](https://www.lerboristeria.com/articoli/2000_12.php), che invece è utile nelle altre due varietà a caratterizzarne la provenienza e la purezza.  
-  
-Il miele di Lavanda ha in generale proprietà che richiamano le piante da cui è ricavato, quindi risulta rilassante e calmante del sistema nervoso centrale, rasserenante e [spasmolitico](https://www.lerboristeria.com/glossario/spasmolitico.php) per le tensioni sia fisiche che psichiche, contro l'[ansia](https://www.lerboristeria.com/articoli/2017_02_ansia_stress_insonnia_depressione.php) e l'[insonnia](https://www.lerboristeria.com/articoli/2009_11_fitoterapia_insonnia.php). Inoltre è balsamico e [antisettico](https://www.lerboristeria.com/glossario/antisettico.php) per le vie respiratorie, contro la tosse e la raucedine; antisettico delle vie uro-genitali; digestivo, [antispasmodico](https://www.lerboristeria.com/glossario/antispasmodico.php) e [colagogo](https://www.lerboristeria.com/glossario/colagogo.php)- [coleretico](https://www.lerboristeria.com/glossario/coleretico.php). E' un miele che, oltre agli zuccheri semplici come glucosio e fruttosio, è ricco di [minerali](https://www.lerboristeria.com/articoli/2006_06.php) fra cui [ferro](https://www.lerboristeria.com/articoli/2006_09.php), consigliato per bambini, anziani, sportivi, persone [anemiche](https://www.lerboristeria.com/glossario/anemia.php).  
-  
-E' adatto come dolcificante per colazione, per spuntini energetici prima dell'attività sportiva, dello studio o del lavoro particolarmente impegnativi.  
-In cucina si abbina particolarmente bene con il Pecorino sardo stagionato, o altri formaggi dal sapore deciso, e con la frutta.  
-Anticamente si applicava sulle ferite come [cicatrizzante](https://www.lerboristeria.com/glossario/cicatrizzante.php); può essere utile per lenire punture di insetti. Come tutti i mieli, non va sottoposto al calore, che ne altererebbe le qualità organolettiche e le proprietà officinali.  
-  
-
-## Miele di Rosmarino
-
-  
-  
-
-![Rosmarino](98eed8b50bba104070600339ab972f8c_MD5.jpg "Rosmarino")
+<a href="Pictures/98eed8b50bba104070600339ab972f8c_MD5.jpg"><img src="Pictures/98eed8b50bba104070600339ab972f8c_MD5.jpg" width="150" /></a>
 
 Rosmarino
 
@@ -279,7 +271,7 @@ Analogamente alla pianta di provenienza, gli si possono attribuire discrete prop
   
   
 
-![Sulla](8615e0013bbeae062698154642a442b8_MD5.jpg "Sulla")
+- <a href="Pictures/8615e0013bbeae062698154642a442b8_MD5.jpg"><img src="Pictures/8615e0013bbeae062698154642a442b8_MD5.jpg" width="150" /></a>
 
 Sulla
 
@@ -301,7 +293,7 @@ Ottimo dolcificante per le bevande in genere, come [camomilla](https://www.lerb
   
   
 
-![Tarassaco](267487f03dc3c13ae655270dc2bc3ed7_MD5.jpg "Tarassaco")
+<a href="Pictures/267487f03dc3c13ae655270dc2bc3ed7_MD5.jpg"><img src="Pictures/267487f03dc3c13ae655270dc2bc3ed7_MD5.jpg" width="150" /></a>
 
 Tarassaco
 
@@ -325,7 +317,7 @@ Poiché contiene elevate quantità di acqua, circa il 18-19%, può essere sogget
   
   
 
-![Tiglio](1eda280d0b12a468ce5c952638fbdc9a_MD5.jpg "Tiglio")
+<a href="Pictures/1eda280d0b12a468ce5c952638fbdc9a_MD5.jpg"><img src="Pictures/1eda280d0b12a468ce5c952638fbdc9a_MD5.jpg" width="150" /></a>
 
 Tiglio
 
@@ -346,20 +338,7 @@ Di uso molto versatile, è utilizzato per le salse agrodolci, nelle macedonie di
 Utile anche come cosmetico, per maschere [emollienti](https://www.lerboristeria.com/glossario/emolliente.php) e nutrienti per pelli delicate, disidratate, secche, anche miscelato con yogurt. Mediante [suffumigi](https://www.lerboristeria.com/glossario/suffumigi.php) aiuta a pulire delicatamente la pelle in profondità.  
   
 
-## Miele di Timo
-
   
-  
-
-![Timo](12ad8a1504a493e40592b2272cee8905_MD5.jpg "Timo")
-
-Timo
-
-Il miele di [Timo](https://www.lerboristeria.com/erbario/timo.php) è prodotto dai fiori di alcune specie del genere Thymus, della famiglia delle Labiatae, in particolare Thymus serpillus, Thymus vulgaris, oltre all'ormai raro Thymus capitatus (sinonimo di Thymbra capitata, o Timo arbustivo), piccolo arbusto che in Italia cresce solo nelle zone più aride delle regioni del sud e delle isole.  
-Il miele di Timo allo stato liquido si presenta in varie tonalità dell'ambra, da chiare a più scure, ma vira verso il beige fino al nocciola quando cristallizza spontaneamente con cristalli irregolari.  
-  
-Ha un sapore intenso, con retrogusto leggermente salato, di [erbe aromatiche](https://www.lerboristeria.com/articoli/2013_04_spezie.php), di timolo, di [Pepe](https://www.lerboristeria.com/erbario/pepenero.php), di datteri; il profumo è altrettanto intenso con aromi floreali, speziati, di fiori secchi, di [chiodi di Garofano](https://www.lerboristeria.com/erbario/chiodi_garofano.php), di marsala, di vin brulè.  
-Similmente alle piante da cui è ricavato, al miele di Timo si attribuiscono proprietà [antisettiche](https://www.lerboristeria.com/glossario/antisettico.php), balsamiche per la tosse, febbrifughe, stimolanti ed energetiche. In cucina si abbina a formaggi stagionati e piccanti, dal gusto deciso.
 
 
 
