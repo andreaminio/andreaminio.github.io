@@ -129,8 +129,13 @@ menubar_toc: true
 
 
 
+##
 
+---
 
+## Italian
+
+---
 
 
 
@@ -198,6 +203,14 @@ menubar_toc: true
     - Miele millefiori chiaro: si produce a partire da inizio primavera fino a giugno/luglio, ha un colore chiaro e trasparente e un sapore più delicato e dolce rispetto alle altre varianti, ma meno intenso. Dopo alcuni mesi dal raccolto il prodotto tende a cristallizzare.
     - Miele millefiori scuro: si produce sul finire dell’estate, ha una colorazione scura o ambrata. Il gusto è più deciso rispetto alla variante precedente con un retrogusto leggermente amarognolo. Ricorda molto il miele di castagno. La consistenza è cremosa e la sua cristallizzazione è più lenta.
 
+- **Rosmarino**
+     - <a href="Pictures/98eed8b50bba104070600339ab972f8c_MD5.jpg"><img src="Pictures/98eed8b50bba104070600339ab972f8c_MD5.jpg" width="150" /></a>
+     - Il miele di [Rosmarino](https://www.lerboristeria.com/erbario/rosmarino.php) è prodotto dalle api che bottinano sui i fiori del Rosmarinus officinalis, una pianta tipica della macchia mediterranea, diffusa in tutte le zone costiere italiane, che viene anche coltivato come pianta officinale e aromatica da condimento. In Italia le produzioni più significative di miele di Rosmarino si trovano in Sardegna e in Puglia.    
+     - Il miele di Rosmarino allo stato liquido ha un colore giallo paglierino chiaro che vira al bianco avorio quando cristallizza con una pastosità fine, non molti mesi dopo il raccolto, diventando molto denso, quasi solido.  
+     - Ha un sapore molto dolce, con retrogusto acidulo e aroma di [mandorle](https://www.lerboristeria.com/erbario/mandorlo.php) e agrumi, sentori di [erbe aromatiche](https://www.lerboristeria.com/articoli/2013_04_spezie.php) officinali e floreali, che ricordano il profumo dei suoi fiori.  
+     - Difficile da reperire in purezza, a parte in Sardegna dove il Rosmarino fiorisce per quasi tutto l'anno per le condizioni climatiche favorevoli, in cucina lo si abbina con formaggi sapidi, come il Pecorino sardo stagionato e il pecorino semi-stagionato come il "Fiore Sardo", o con formaggi erborinati. Ottimo su fette di pane per una merenda energetica e salutare, e con il [tè](https://www.lerboristeria.com/erbario/theverde.php).  
+     - Analogamente alla pianta di provenienza, gli si possono attribuire discrete proprietà salutari per il fegato, del quale favorisce la [depurazione](https://www.lerboristeria.com/glossario/depurativo.php), influendo beneficamente sulla produzione di [bile](https://www.lerboristeria.com/articoli/2019_09_fegato_cistifellea_calcoli_biliari.php) e sulla digestione. Utile anche per migliorare lo stato generale, come energetico e contro l'[astenia](https://www.lerboristeria.com/glossario/astenia.php).  
+
 - **Stachys**
     - <a href="Pictures/efa4ef32c647d3a3d605cc021ca6fd13_MD5.jpg"><img src="Pictures/efa4ef32c647d3a3d605cc021ca6fd13_MD5.jpg"  width="150" /></a>
     - La Stachys è un'erba officinale che cresce sulle stoppie di grano (residuo degli steli) dopo la trebbiatura.
@@ -205,17 +218,49 @@ menubar_toc: true
     - Una curiosità: è uno dei mieli che meglio si presta a caramellare le carni rosse in cucina! 
 
 - **Sulla**: 
-    - dal sapore “vegetale”, dall’odore molto delicato e dal colore chiaro (quasi bianco quando è cristallizzato) questo miele ha proprietà tonificanti, energetiche e diuretiche. Buono per purificare il fegato e come regolatore intestinale, ha una fragranza che sa di fiori e contiene buone percentuali di vitamine A, B e C.
+-     - <a href="Pictures/8615e0013bbeae062698154642a442b8_MD5.jpg"><img src="Pictures/8615e0013bbeae062698154642a442b8_MD5.jpg" width="150" /></a>
+    - Il miele di Sulla è prodotto dalle api che suggono il nettare dalla pianta erbacea perenne da cui prende il nome, l'erba Sulla o *Hedysarum coronarium*, una leguminosa tipica dell'area mediterranea, che in Italia cresce in particolare al centro-sud, anche spontanea su terreni incolti.  
+    - Molto utilizzata come pianta foraggera e migliorativa dei suoli che arricchisce di azoto, in Italia è coltivata su ampie superfici, particolarità che consente la produzione del miele uniflorale.  
+    - Il miele di Sulla ha una colorazione paglierina molto tenue e trasparente, che diventa beige chiaro o quasi bianco quando cristallizza spontaneamente dopo pochi mesi, con cristalli medi o fini che lo rendono cremoso. Ha un sapore molto delicato, non troppo dolce, di fieno e noci fresche, con retrogusto acidulo e poco persistente, note fruttate, profumo di paglia o erba secca che sprigiona gradevoli note vegetali e floreali, che, in vicinanza di agrumeti può acquisire aromi caratteristici, benché non sia più in purezza.  
+    - Il miele di Sulla, analogamente alla pianta da cui deriva, ha una composizione ricca di nutrienti, come gli zuccheri semplici glucosio, fruttosio e saccarosio, [minerali](https://www.lerboristeria.com/articoli/2006_06.php) e [oligoelementi](https://www.lerboristeria.com/glossario/oligoelementi.php) quali [zinco](https://www.lerboristeria.com/articoli/2006_09.php), [ferro](https://www.lerboristeria.com/articoli/2006_09.php), [rame](https://www.lerboristeria.com/articoli/2006_09.php), [magnesio](https://www.lerboristeria.com/articoli/2005_04.php), [manganese](https://www.lerboristeria.com/articoli/2017_06_silicio_boro_manganese.php), [vitamine](https://www.lerboristeria.com/articoli/2006_03.php) A, B, C, che lo rendono un alimento energizzante e tonificante, adatto anche agli sportivi.  
+    - Utile per le affezioni della gola e contro la tosse, specie se utilizzato per dolcificare tisane balsamiche, o nel latte caldo, purché non bollente per non alterarne le proprietà; oppure lasciato sciogliere lentamente in bocca come lenitivo per il mal di gola.  
+    - La tradizione popolare gli attribuisce proprietà [diuretiche](https://www.lerboristeria.com/glossario/diuretico.php), [lassative](https://www.lerboristeria.com/glossario/lassativo.php) e regolatrici intestinali, e disintossicanti epatiche.  
+    - Ottimo dolcificante per le bevande in genere, come [camomilla](https://www.lerboristeria.com/erbario/camomilla.php) e [tè](https://www.lerboristeria.com/erbario/theverde.php), si abbina bene con formaggi freschi caprini, ricotta, nei semifreddi e nei gelati al miele. Per la sua delicatezza è utilizzato per la preparazione del torrone.  
+    - dal sapore “vegetale”, dall’odore molto delicato e dal colore chiaro (quasi bianco quando è cristallizzato) questo miele ha proprietà tonificanti, energetiche e diuretiche. 
+    - Buono per purificare il fegato e come regolatore intestinale, ha una fragranza che sa di fiori e contiene buone percentuali di vitamine A, B e C.
 
-- **Tarassaco**
+- **Tarassaco (dandelion)**
     - <a href="Pictures/c28a1a2f47584af3e9b157a7945793d7_MD5.jpg"><img src="Pictures/c28a1a2f47584af3e9b157a7945793d7_MD5.jpg"  width="150" /></a>
     - Il tarassaco è una pianta erbacea che cresce spontaneamente in zone pianeggianti e montuose. Il miele di tarassaco ha un colore giallo intenso e con un sentore pungente, intenso, persistente, che ricorda l’ammoniaca. Il sapore, tuttavia, è delicato e balsamico, con un retrogusto di camomilla.
-    - 
+    - Il miele di [Tarassaco](https://www.lerboristeria.com/erbario/tarassaco.php) è prodotto dalle api che bottinano sui fiori di Taraxacum officinale, una pianta erbacea perenne chiamata anche "dente di leone" per le sue foglie seghettate o dentate, oppure "soffione" per la sua infruttescenza lanosa, formata dai numerosi pappi dei semi che, al soffio del vento, si disperdono disseminando la pianta all'intorno. 
+    - Il miele di Tarassaco è piuttosto difficile da produrre in purezza, poiché i suoi fiori giallo-oro sbocciano all'inizio della primavera, quando negli alveari le colonie di api sono ancora poco popolose e le condizioni climatiche possono essere avverse.  
+    - La produzione più significativa di miele uniflorale di Tarassaco si riscontra principalmente nell'Italia del nord, pur essendo prodotto anche al centro-sud.  
+    - Quando è liquido il miele di Tarassaco in purezza presenta un tipico colore giallo vivo, che vira al crema quando cristallizza, piuttosto rapidamente per l'alto contenuto di glucosio, con cristalli molto fini che lo rendono particolarmente morbido e cremoso.  
+    - Ha un odore piuttosto intenso, pungente, penetrante, quasi ammoniacale, sapore erbaceo che richiama aromi di [camomilla](https://www.lerboristeria.com/erbario/camomilla.php), spezie fresche, caramelle agli [oli essenziali](https://www.lerboristeria.com/articoli/2004_12.php).  
+    - Il miele di Tarassaco ha proprietà [diuretiche](https://www.lerboristeria.com/glossario/diuretico.php), [drenanti](https://www.lerboristeria.com/glossario/drenante.php), [depurative](https://www.lerboristeria.com/glossario/depurativo.php) renali ed epatiche, similmente alla pianta da cui è prodotto. Può essere adoperato in primavera come alimento [depurativo](https://www.lerboristeria.com/glossario/depurativo.php) per disintossicare l'organismo da scorie e tossine.  
+    - In cucina il miele di Tarassaco si abbina bene con i formaggi di pecora mediamente stagionati, anche piccanti, e formaggi di fossa.  
+    - Ottimo a colazione e a merenda, spalmato su pane o fette biscottate, per dolcificare tisane depurative o infuso di Camomilla.  
+    - Poiché contiene elevate quantità di acqua, circa il 18-19%, può essere soggetto facilmente a fermentazione, per cui è sconsigliata una sua lunga conservazione, se non è opportunamente deumidificato dall'apicoltore con un apposito strumento.  
+  
+  
+  
 - **Tiglio**: 
     - <a href="Pictures/14b51514f5c66f0d8f5144c94e88ea7f_MD5.jpg"><img src="Pictures/14b51514f5c66f0d8f5144c94e88ea7f_MD5.jpg" width="150" /></a>
+    - <a href="Pictures/1eda280d0b12a468ce5c952638fbdc9a_MD5.jpg"><img src="Pictures/1eda280d0b12a468ce5c952638fbdc9a_MD5.jpg" width="150" /></a>
+    - Il miele di [Tiglio](https://www.lerboristeria.com/erbario/tiglio.php) è prodotto dai fiori di varie specie del genere Tilia, della famiglia delle Tiliaceae, piante molto longeve che costituiscono una fonte nettarifera assai ricercata dalle api, che dal loro nettare producono un miele molto apprezzato.  
+    - Fra le diverse specie troviamo il Tiglio selvatico (Tilia cordata), e due specie coltivate diffuse in viali, parchi e giardini come Tilia platyphyllos, il più diffuso in Italia, e Tilia americana, originaria del Nord America ma oggi diffusa anche in Europa.  
+    - Il miele di Tiglio ha una colorazione chiara, leggermente ambrata con riflessi giallo-verde quando è in totale purezza; con la cristallizzazione, che è piuttosto lenta, forma cristalli grossi e irregolari e il colore vira verso il bianco-avorio.  
+    - Il gusto è fresco, balsamico, aromatico, ricorda la resina e l'[incenso](https://www.lerboristeria.com/erbario/boswellia.php), con note di [Menta](https://www.lerboristeria.com/erbario/menta.php) e di erbe di montagna, intenso e molto persistente. Il profumo è forte, ricco di aromi, mentolato, rievoca la [Noce](https://www.lerboristeria.com/erbario/noce.php) fresca, la [Canfora](https://www.lerboristeria.com/erbario/canfora.php), con un retrogusto agrumato amarognolo.  
+    - Non sempre reperibile in purezza, il miele di Tiglio può subire contaminazioni di melata dalla stessa pianta, divenendo più scuro; quando è abbinato al Castagno per la vicinanza di queste due essenze, assume varie gradazioni di colore, e viene familiarmente chiamato "Castiglio".  
+    - Il miele dei Tigli di montagna si differenzia da quello dei Tigli coltivati di pianura, che assume un sapore e una fragranza meno raffinata, più greve e vegetale, che potrebbe imputarsi a contaminazioni con altri tipi di flora. Se è prodotto dai Tigli coltivati nei viali o nei parchi cittadini, potrebbe risultare contaminato da inquinanti ambientali, per cui è da preferire il miele di Tiglio biologico prodotto nelle zone collinari o montane prive di inquinamento.  
+    - Il miele di Tiglio ha proprietà simili a quelle attribuite ai fiori, cioè rilassante, calmante, [antispasmodico](https://www.lerboristeria.com/glossario/antispasmodico.php), rinfrescante, balsamico per la gola e l'apparato respiratorio; è inoltre digestivo, [colagogo](https://www.lerboristeria.com/glossario/colagogo.php) e purificante per il fegato.  
+    - In cucina è ideale per dolcificare tisane rilassanti, in particolare di fiori di Tiglio, che possono essere somministrate anche ai bambini sopra l'anno di età.  
+    - Di uso molto versatile, è utilizzato per le salse agrodolci, nelle macedonie di frutta, come dolcificante di alimenti e bevande, nello yogurt, per confezionare caramelle al miele.  
+    - Utile anche come cosmetico, per maschere [emollienti](https://www.lerboristeria.com/glossario/emolliente.php) e nutrienti per pelli delicate, disidratate, secche, anche miscelato con yogurt. Mediante [suffumigi](https://www.lerboristeria.com/glossario/suffumigi.php) aiuta a pulire delicatamente la pelle in profondità.  
     - Il miele di tiglio è tra i più delicati in commercio e ha un colore dorato chiaro. Il suo sapore è dolce e con un aroma che rimanda ai fiori di tiglio. La sua dolcezza e la sua fluidità lo rendono molto adatto ad essere utilizzato come sostituto dello zucchero tradizionale in vari tipi di bevande.
     - Il suo profumo è meno intenso rispetto ad altri tipi di miele, ma il suo sapore e il suo aroma delicato lo rendono particolarmente sofisticato.
     - dalle proprietà calmanti, diuretiche e digestive funge anche da sedativo per i dolori mestruali e può essere di aiuto contro l’insonnia. Buono anche per tisane espettoranti, è di colore chiaro o anche scuro (dipende dal contenuto in melata), ha un odore balsamico e un sapore dal retrogusto amaro.
+
 
 - **Timo**: 
     - <a href="Pictures/12ad8a1504a493e40592b2272cee8905_MD5.jpg"><img src="Pictures/12ad8a1504a493e40592b2272cee8905_MD5.jpg" width="150" /></a>
@@ -232,113 +277,6 @@ menubar_toc: true
     - È uno dei mieli più rari e salutari in commercio. In confronto al tradizionale miele di nettare, quello di melata è meno dolce, il sapore ricorda quello del caramello, con retrogusto leggermente amarognolo. Il colore è molto scuro, quasi nero, mentre la consistenza è compatta come quella del miele di nettare, ma non tende a cristallizzarsi.
     - **Miele di melata d’abete**: ha proprietà antisettiche per i polmoni e le vie aeree, contrasta i mali di stagione come l’influenza, le faringiti, le bronchiti ma anche l’asma. Ha un sapore balsamico e un odore di zucchero caramellato o legno bruciato e un colore scuro.
 
-
----
-
-> To sort 
-
----
-
-
-
-
-
-
-
-    
-
-- **Rosmarino**
-
-  
-  
-
-<a href="Pictures/98eed8b50bba104070600339ab972f8c_MD5.jpg"><img src="Pictures/98eed8b50bba104070600339ab972f8c_MD5.jpg" width="150" /></a>
-
-Rosmarino
-
-Il miele di [Rosmarino](https://www.lerboristeria.com/erbario/rosmarino.php) è prodotto dalle api che bottinano sui i fiori del Rosmarinus officinalis, una pianta tipica della macchia mediterranea, diffusa in tutte le zone costiere italiane, che viene anche coltivato come pianta officinale e aromatica da condimento. In Italia le produzioni più significative di miele di Rosmarino si trovano in Sardegna e in Puglia.  
-  
-Il miele di Rosmarino allo stato liquido ha un colore giallo paglierino chiaro che vira al bianco avorio quando cristallizza con una pastosità fine, non molti mesi dopo il raccolto, diventando molto denso, quasi solido.  
-Ha un sapore molto dolce, con retrogusto acidulo e aroma di [mandorle](https://www.lerboristeria.com/erbario/mandorlo.php) e agrumi, sentori di [erbe aromatiche](https://www.lerboristeria.com/articoli/2013_04_spezie.php) officinali e floreali, che ricordano il profumo dei suoi fiori.  
-  
-Difficile da reperire in purezza, a parte in Sardegna dove il Rosmarino fiorisce per quasi tutto l'anno per le condizioni climatiche favorevoli, in cucina lo si abbina con formaggi sapidi, come il Pecorino sardo stagionato e il pecorino semi-stagionato come il "Fiore Sardo", o con formaggi erborinati. Ottimo su fette di pane per una merenda energetica e salutare, e con il [tè](https://www.lerboristeria.com/erbario/theverde.php).  
-  
-Analogamente alla pianta di provenienza, gli si possono attribuire discrete proprietà salutari per il fegato, del quale favorisce la [depurazione](https://www.lerboristeria.com/glossario/depurativo.php), influendo beneficamente sulla produzione di [bile](https://www.lerboristeria.com/articoli/2019_09_fegato_cistifellea_calcoli_biliari.php) e sulla digestione. Utile anche per migliorare lo stato generale, come energetico e contro l'[astenia](https://www.lerboristeria.com/glossario/astenia.php).  
-  
-
-## Miele di Sulla
-
-  
-  
-
-- <a href="Pictures/8615e0013bbeae062698154642a442b8_MD5.jpg"><img src="Pictures/8615e0013bbeae062698154642a442b8_MD5.jpg" width="150" /></a>
-
-Sulla
-
-Il miele di Sulla è prodotto dalle api che suggono il nettare dalla pianta erbacea perenne da cui prende il nome, l'erba Sulla o Hedysarum coronarium, una leguminosa tipica dell'area mediterranea, che in Italia cresce in particolare al centro-sud, anche spontanea su terreni incolti.  
-Molto utilizzata come pianta foraggera e migliorativa dei suoli che arricchisce di azoto, in Italia è coltivata su ampie superfici, particolarità che consente la produzione del miele uniflorale.  
-  
-Il miele di Sulla ha una colorazione paglierina molto tenue e trasparente, che diventa beige chiaro o quasi bianco quando cristallizza spontaneamente dopo pochi mesi, con cristalli medi o fini che lo rendono cremoso. Ha un sapore molto delicato, non troppo dolce, di fieno e noci fresche, con retrogusto acidulo e poco persistente, note fruttate, profumo di paglia o erba secca che sprigiona gradevoli note vegetali e floreali, che, in vicinanza di agrumeti può acquisire aromi caratteristici, benché non sia più in purezza.  
-  
-Il miele di Sulla, analogamente alla pianta da cui deriva, ha una composizione ricca di nutrienti, come gli zuccheri semplici glucosio, fruttosio e saccarosio, [minerali](https://www.lerboristeria.com/articoli/2006_06.php) e [oligoelementi](https://www.lerboristeria.com/glossario/oligoelementi.php) quali [zinco](https://www.lerboristeria.com/articoli/2006_09.php), [ferro](https://www.lerboristeria.com/articoli/2006_09.php), [rame](https://www.lerboristeria.com/articoli/2006_09.php), [magnesio](https://www.lerboristeria.com/articoli/2005_04.php), [manganese](https://www.lerboristeria.com/articoli/2017_06_silicio_boro_manganese.php), [vitamine](https://www.lerboristeria.com/articoli/2006_03.php) A, B, C, che lo rendono un alimento energizzante e tonificante, adatto anche agli sportivi.  
-  
-Utile per le affezioni della gola e contro la tosse, specie se utilizzato per dolcificare tisane balsamiche, o nel latte caldo, purché non bollente per non alterarne le proprietà; oppure lasciato sciogliere lentamente in bocca come lenitivo per il mal di gola.  
-La tradizione popolare gli attribuisce proprietà [diuretiche](https://www.lerboristeria.com/glossario/diuretico.php), [lassative](https://www.lerboristeria.com/glossario/lassativo.php) e regolatrici intestinali, e disintossicanti epatiche.  
-  
-Ottimo dolcificante per le bevande in genere, come [camomilla](https://www.lerboristeria.com/erbario/camomilla.php) e [tè](https://www.lerboristeria.com/erbario/theverde.php), si abbina bene con formaggi freschi caprini, ricotta, nei semifreddi e nei gelati al miele. Per la sua delicatezza è utilizzato per la preparazione del torrone.  
-  
-
-## Miele di Tarassaco
-
-  
-  
-
-<a href="Pictures/267487f03dc3c13ae655270dc2bc3ed7_MD5.jpg"><img src="Pictures/267487f03dc3c13ae655270dc2bc3ed7_MD5.jpg" width="150" /></a>
-
-Tarassaco
-
-Il miele di [Tarassaco](https://www.lerboristeria.com/erbario/tarassaco.php) è prodotto dalle api che bottinano sui fiori di Taraxacum officinale, una pianta erbacea perenne chiamata anche "dente di leone" per le sue foglie seghettate o dentate, oppure "soffione" per la sua infruttescenza lanosa, formata dai numerosi pappi dei semi che, al soffio del vento, si disperdono disseminando la pianta all'intorno.  
-  
-Il miele di Tarassaco è piuttosto difficile da produrre in purezza, poiché i suoi fiori giallo-oro sbocciano all'inizio della primavera, quando negli alveari le colonie di api sono ancora poco popolose e le condizioni climatiche possono essere avverse.  
-La produzione più significativa di miele uniflorale di Tarassaco si riscontra principalmente nell'Italia del nord, pur essendo prodotto anche al centro-sud.  
-  
-Quando è liquido il miele di Tarassaco in purezza presenta un tipico colore giallo vivo, che vira al crema quando cristallizza, piuttosto rapidamente per l'alto contenuto di glucosio, con cristalli molto fini che lo rendono particolarmente morbido e cremoso.  
-Ha un odore piuttosto intenso, pungente, penetrante, quasi ammoniacale, sapore erbaceo che richiama aromi di [camomilla](https://www.lerboristeria.com/erbario/camomilla.php), spezie fresche, caramelle agli [oli essenziali](https://www.lerboristeria.com/articoli/2004_12.php).  
-  
-Il miele di Tarassaco ha proprietà [diuretiche](https://www.lerboristeria.com/glossario/diuretico.php), [drenanti](https://www.lerboristeria.com/glossario/drenante.php), [depurative](https://www.lerboristeria.com/glossario/depurativo.php) renali ed epatiche, similmente alla pianta da cui è prodotto. Può essere adoperato in primavera come alimento [depurativo](https://www.lerboristeria.com/glossario/depurativo.php) per disintossicare l'organismo da scorie e tossine.  
-  
-In cucina il miele di Tarassaco si abbina bene con i formaggi di pecora mediamente stagionati, anche piccanti, e formaggi di fossa.  
-Ottimo a colazione e a merenda, spalmato su pane o fette biscottate, per dolcificare tisane depurative o infuso di Camomilla.  
-Poiché contiene elevate quantità di acqua, circa il 18-19%, può essere soggetto facilmente a fermentazione, per cui è sconsigliata una sua lunga conservazione, se non è opportunamente deumidificato dall'apicoltore con un apposito strumento.  
-  
-
-## Miele di Tiglio
-
-  
-  
-
-<a href="Pictures/1eda280d0b12a468ce5c952638fbdc9a_MD5.jpg"><img src="Pictures/1eda280d0b12a468ce5c952638fbdc9a_MD5.jpg" width="150" /></a>
-
-Tiglio
-
-Il miele di [Tiglio](https://www.lerboristeria.com/erbario/tiglio.php) è prodotto dai fiori di varie specie del genere Tilia, della famiglia delle Tiliaceae, piante molto longeve che costituiscono una fonte nettarifera assai ricercata dalle api, che dal loro nettare producono un miele molto apprezzato.  
-Fra le diverse specie troviamo il Tiglio selvatico (Tilia cordata), e due specie coltivate diffuse in viali, parchi e giardini come Tilia platyphyllos, il più diffuso in Italia, e Tilia americana, originaria del Nord America ma oggi diffusa anche in Europa.  
-  
-Il miele di Tiglio ha una colorazione chiara, leggermente ambrata con riflessi giallo-verde quando è in totale purezza; con la cristallizzazione, che è piuttosto lenta, forma cristalli grossi e irregolari e il colore vira verso il bianco-avorio.  
-Il gusto è fresco, balsamico, aromatico, ricorda la resina e l'[incenso](https://www.lerboristeria.com/erbario/boswellia.php), con note di [Menta](https://www.lerboristeria.com/erbario/menta.php) e di erbe di montagna, intenso e molto persistente. Il profumo è forte, ricco di aromi, mentolato, rievoca la [Noce](https://www.lerboristeria.com/erbario/noce.php) fresca, la [Canfora](https://www.lerboristeria.com/erbario/canfora.php), con un retrogusto agrumato amarognolo.  
-  
-Non sempre reperibile in purezza, il miele di Tiglio può subire contaminazioni di melata dalla stessa pianta, divenendo più scuro; quando è abbinato al Castagno per la vicinanza di queste due essenze, assume varie gradazioni di colore, e viene familiarmente chiamato "Castiglio".  
-Il miele dei Tigli di montagna si differenzia da quello dei Tigli coltivati di pianura, che assume un sapore e una fragranza meno raffinata, più greve e vegetale, che potrebbe imputarsi a contaminazioni con altri tipi di flora. Se è prodotto dai Tigli coltivati nei viali o nei parchi cittadini, potrebbe risultare contaminato da inquinanti ambientali, per cui è da preferire il miele di Tiglio biologico prodotto nelle zone collinari o montane prive di inquinamento.  
-  
-Il miele di Tiglio ha proprietà simili a quelle attribuite ai fiori, cioè rilassante, calmante, [antispasmodico](https://www.lerboristeria.com/glossario/antispasmodico.php), rinfrescante, balsamico per la gola e l'apparato respiratorio; è inoltre digestivo, [colagogo](https://www.lerboristeria.com/glossario/colagogo.php) e purificante per il fegato.  
-  
-In cucina è ideale per dolcificare tisane rilassanti, in particolare di fiori di Tiglio, che possono essere somministrate anche ai bambini sopra l'anno di età.  
-Di uso molto versatile, è utilizzato per le salse agrodolci, nelle macedonie di frutta, come dolcificante di alimenti e bevande, nello yogurt, per confezionare caramelle al miele.  
-  
-Utile anche come cosmetico, per maschere [emollienti](https://www.lerboristeria.com/glossario/emolliente.php) e nutrienti per pelli delicate, disidratate, secche, anche miscelato con yogurt. Mediante [suffumigi](https://www.lerboristeria.com/glossario/suffumigi.php) aiuta a pulire delicatamente la pelle in profondità.  
-  
-
-  
 
 
 

@@ -36,24 +36,9 @@
               "icon": "lucide-file",
               "title": "Empty card"
             }
-          },
-          {
-            "id": "25b1cdcf37b194c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Andrea_s_winemaking_notes/Honey/index.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,8 +218,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "25b1cdcf37b194c2",
+  "active": "16dbc381e6335dac",
   "lastOpenFiles": [
+    "Andrea_s_winemaking_notes/Honey/index.md",
     "Andrea_s_winemaking_notes/Honey/Files/Conapi-Guida-per-conoscere-il-miele.pdf",
     "Andrea_s_winemaking_notes/Honey/Files/Unconfirmed 526344.crdownload",
     "Andrea_s_winemaking_notes/Honey/Files",
@@ -246,7 +232,6 @@
     "Andrea_s_winemaking_notes/Honey/Pictures/39b8fee1a09aa8a78117e59694d00337_MD5.jpg",
     "Andrea_s_winemaking_notes/Honey/Pictures/25f9d7c5788d48c2683a7952c93181a7_MD5.jpg",
     "Andrea_s_winemaking/Empty card.md",
-    "Andrea_s_winemaking_notes/Honey/index.md",
     "Andrea_s_winemaking_notes/Honey/Pictures/efa4ef32c647d3a3d605cc021ca6fd13_MD5.jpg",
     "Andrea_s_winemaking_notes/Honey/Pictures/14b51514f5c66f0d8f5144c94e88ea7f_MD5.jpg",
     "Andrea_s_winemaking_notes/Honey/Pictures/3e097967ff414dda1c3f8a3487324718_MD5.jpg",
@@ -278,7 +263,6 @@
     "Andrea_s_winemaking_notes/Recipes/Cidre",
     "Andrea_s_winemaking_notes/Other_notes",
     "Andrea_s_winemaking_notes/Honey",
-    "Andrea_s_winemaking/Fortified liquors/Pictures",
     "Andrea_s_winemaking/index2.md",
     "index.md"
   ]
